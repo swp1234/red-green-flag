@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "title": "Tes Red Flag Green Flag - Kamu Bendera Apa? | DopaBrain",
+    "description": "15 skenario untuk mengetahui rasio red flag dan green flag-mu! Pacaran, pertemanan, dan kantor: kamu bendera apa?",
+    "og_title": "Tes Red Flag Green Flag - Kamu Bendera Apa? | DopaBrain",
+    "og_description": "15 skenario untuk mengungkap rasio red flag vs green flag-mu dalam hubungan!",
+    "twitter_title": "Tes Red Flag Green Flag | DopaBrain",
+    "twitter_description": "15 skenario untuk mengungkap rasio bendera-mu!"
+  },
+  "a11y": {
+    "skip": "Langsung ke konten"
+  },
+  "app": {
+    "title": "Tes Red Flag Green Flag",
+    "subtitle": "Apakah kamu green flag berjalan?",
+    "loading": "Memuat...",
+    "start": "Mulai Tes"
+  },
+  "question": {
+    "progress": "{current} / {total}"
+  },
+  "questions": {
+    "q1": {
+      "text": "Pasanganmu memeriksa HP-mu tanpa izin. Kamu...",
+      "a": "Langsung bicara soal batasan",
+      "b": "Merasa tidak nyaman tapi diam saja",
+      "c": "Balas periksa HP mereka juga",
+      "d": "Merasa itu hal yang biasa"
+    },
+    "q2": {
+      "text": "Teman selalu membatalkan rencana. Kamu...",
+      "a": "Bicara terbuka tentang bagaimana pengaruhnya padamu",
+      "b": "Berhenti mengajak tanpa penjelasan",
+      "c": "Batalkan rencana mereka sebagai balasan",
+      "d": "Selalu bilang tidak apa-apa meski sakit hati"
+    },
+    "q3": {
+      "text": "Rekan kerja mengambil kredit atas pekerjaanmu. Kamu...",
+      "a": "Membahasnya secara profesional di rapat",
+      "b": "Mengeluh ke rekan kerja lain",
+      "c": "Mengambil kredit atas pekerjaan mereka lain kali",
+      "d": "Membiarkannya dan tidak melakukan apa-apa"
+    },
+    "q4": {
+      "text": "Orang yang kamu kencani tidak membalas pesan selama 3 hari. Kamu...",
+      "a": "Kirim pesan tenang menanyakan kabar",
+      "b": "Overthinking dan kirim banyak pesan",
+      "c": "Posting sesuatu untuk bikin mereka cemburu",
+      "d": "Pura-pura tidak menyadarinya"
+    },
+    "q5": {
+      "text": "Temanmu bergosip tentang orang lain denganmu. Kamu...",
+      "a": "Ganti topik atau ungkapkan ketidaknyamanan",
+      "b": "Mendengarkan tapi tidak ikut-ikutan",
+      "c": "Ikut bergosip dengan antusias",
+      "d": "Yakin mereka juga bergosip tentangmu tapi tetap diam"
+    },
+    "q6": {
+      "text": "Pasanganmu cemburu saat kamu jalan dengan teman. Kamu...",
+      "a": "Bicara jujur tentang kepercayaan",
+      "b": "Kurangi waktu dengan teman untuk menghindari konflik",
+      "c": "Sengaja bikin mereka lebih cemburu",
+      "d": "Berpikir cemburu berarti lebih sayang"
+    },
+    "q7": {
+      "text": "Rekan kerja selalu menyela bicaramu di rapat. Kamu...",
+      "a": "Dengan sopan tapi tegas bilang \"Saya ingin menyelesaikan poin saya\"",
+      "b": "Berhenti berkontribusi di rapat",
+      "c": "Mulai menyela mereka juga",
+      "d": "Ketawa aja setiap kali"
+    },
+    "q8": {
+      "text": "Kencanmu kasar pada pelayan. Kamu...",
+      "a": "Mengenalinya sebagai red flag dan mempertimbangkan ulang",
+      "b": "Merasa malu tapi tidak bilang apa-apa",
+      "c": "Berpikir mereka cuma tegas saja",
+      "d": "Minta maaf sendiri pada pelayannya"
+    },
+    "q9": {
+      "text": "Seseorang memberimu silent treatment setelah bertengkar. Kamu...",
+      "a": "Beri mereka ruang lalu ajak bicara dengan tenang",
+      "b": "Terus minta maaf sampai mereka merespons",
+      "c": "Balas dengan silent treatment juga",
+      "d": "Bertingkah seperti tidak terjadi apa-apa"
+    },
+    "q10": {
+      "text": "Teman pinjam uang dan tidak pernah bayar. Kamu...",
+      "a": "Dengan baik mengingatkan tentang pinjaman",
+      "b": "Tidak mau pinjamkan lagi tapi tidak menyebutkannya",
+      "c": "Bilang ke semua orang bahwa mereka tidak bisa dipercaya",
+      "d": "Terus meminjamkan karena tidak bisa menolak"
+    },
+    "q11": {
+      "text": "Pasanganmu menganggap perasaanmu sebagai 'lebay'. Kamu...",
+      "a": "Jelaskan dengan tenang mengapa perasaanmu valid",
+      "b": "Mulai meragukan emosi sendiri",
+      "c": "Abaikan perasaan mereka juga",
+      "d": "Setuju dan minta maaf karena terlalu sensitif"
+    },
+    "q12": {
+      "text": "Teman membocorkan rahasiamu ke orang lain. Kamu...",
+      "a": "Bilang bahwa itu merusak kepercayaan dan tetapkan batasan",
+      "b": "Menjauh tanpa menjelaskan alasan",
+      "c": "Bocorkan rahasia mereka sebagai balas dendam",
+      "d": "Pura-pura tidak tahu mereka melakukannya"
+    },
+    "q13": {
+      "text": "Kencanmu hanya bicara tentang diri sendiri. Kamu...",
+      "a": "Coba arahkan percakapan, lalu nilai apakah ini pola",
+      "b": "Mengangguk dan merasa tidak terlihat",
+      "c": "Ceritakan kisah yang lebih hebat untuk bersaing",
+      "d": "Berpikir mereka hanya penuh semangat dan tidak masalah"
+    },
+    "q14": {
+      "text": "Seseorang minta maaf tapi terus melakukan hal yang sama. Kamu...",
+      "a": "Tetapkan batasan jelas dengan konsekuensi",
+      "b": "Terima maaf setiap kali berharap mereka berubah",
+      "c": "Berhenti menerima maaf dan menyimpan dendam",
+      "d": "Berpikir mungkin kamu terlalu keras"
+    },
+    "q15": {
+      "text": "Pasanganmu mendukung tujuanmu dan merayakan pencapaianmu. Kamu...",
+      "a": "Ungkapkan rasa terima kasih dan dukung mereka juga",
+      "b": "Merasa senang tapi lupa membalasnya",
+      "c": "Curiga dengan motif mereka",
+      "d": "Berpikir kamu tidak pantas mendapat dukungan itu"
+    }
+  },
+  "archetypes": {
+    "greenHigh": {
+      "title": "Green Flag Berjalan",
+      "desc": "Kamu impian semua orang! Batasan sehat, komunikasi hebat, dan kematangan emosional. Kamu membawa stabilitas dan keamanan di setiap hubungan."
+    },
+    "greenMed": {
+      "title": "Panutan Hubungan",
+      "desc": "Kamu membuat pilihan sehat di sebagian besar situasi! Mungkin sesekali goyah, tapi secara keseluruhan polamu mengesankan."
+    },
+    "yellowHigh": {
+      "title": "Sedang Dalam Proses",
+      "desc": "Sadar diri dan aktif berkembang! Belum sempurna, tapi kamu menuju arah yang benar."
+    },
+    "yellowMed": {
+      "title": "Berlian yang Belum Diasah",
+      "desc": "Penuh potensi! Kadang menghindari konflik atau mengabaikan kebutuhanmu sendiri, tapi kamu tahu jalan yang benar."
+    },
+    "redHigh": {
+      "title": "Red Flag yang Menggemaskan",
+      "desc": "Menarik tapi kacau! Cenderung membiarkan emosi memimpin, tapi itu juga bagian dari daya tarikmu yang tak tertahankan."
+    },
+    "redMed": {
+      "title": "Tornado Penuh Gairah",
+      "desc": "Kadang emosional dan impulsif! Gairahmu mendalam, tapi kadang energi itu mengalir ke arah yang salah."
+    },
+    "mixed": {
+      "title": "Karakter Kompleks",
+      "desc": "Tidak bisa ditebak dan berlapis-lapis! Menunjukkan sisi yang benar-benar berbeda tergantung situasi. Kepribadian yang menarik."
+    },
+    "balanced": {
+      "title": "Kontradiksi yang Indah",
+      "desc": "Semua bendera dalam keseimbangan sempurna! Kamu tidak sempurna, tapi menerima semua sisimu adalah awal dari pertumbuhan."
+    }
+  },
+  "dimensions": {
+    "communication": "Komunikasi",
+    "boundaries": "Batasan",
+    "maturity": "Kematangan Emosional",
+    "loyalty": "Kesetiaan"
+  },
+  "result": {
+    "title": "Laporan Benderamu",
+    "flagRatio": "Rasio Bendera",
+    "dimensions": "Dimensi Kepribadian",
+    "retake": "Tes Ulang"
+  },
+  "share": {
+    "title": "Tes Red Flag Green Flag",
+    "text": "Aku {green}% Green Flag! 🟢 Tipeku: {archetype}",
+    "copied": "Tersalin!",
+    "twitter": "Bagikan di Twitter",
+    "copyUrl": "Salin Link"
+  },
+  "nav": {
+    "back": "DopaBrain Beranda"
+  }
+}

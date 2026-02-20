@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "title": "Test Red Flag Green Flag - Quel drapeau es-tu ? | DopaBrain",
+    "description": "15 scénarios pour découvrir ton ratio de drapeaux rouges et verts ! Rencontres, amitiés et travail : quel drapeau es-tu ?",
+    "og_title": "Test Red Flag Green Flag - Quel drapeau es-tu ? | DopaBrain",
+    "og_description": "15 scénarios pour découvrir ton ratio de drapeaux rouges vs verts dans les relations !",
+    "twitter_title": "Test Red Flag Green Flag | DopaBrain",
+    "twitter_description": "15 scénarios pour révéler ton ratio de drapeaux !"
+  },
+  "a11y": {
+    "skip": "Aller au contenu"
+  },
+  "app": {
+    "title": "Test Red Flag Green Flag",
+    "subtitle": "Es-tu un drapeau vert ambulant ?",
+    "loading": "Chargement...",
+    "start": "Commencer le test"
+  },
+  "question": {
+    "progress": "{current} / {total}"
+  },
+  "questions": {
+    "q1": {
+      "text": "Ton/ta partenaire vérifie ton téléphone sans demander. Tu...",
+      "a": "Lui parles directement des limites",
+      "b": "Te sens mal à l'aise mais ne dis rien",
+      "c": "Vérifies son téléphone en représailles",
+      "d": "Trouves ça tout à fait normal"
+    },
+    "q2": {
+      "text": "Un(e) ami(e) annule constamment les plans. Tu...",
+      "a": "Parles ouvertement de l'impact que ça a sur toi",
+      "b": "Arrêtes de l'inviter sans explication",
+      "c": "Annules la prochaine fois pour te venger",
+      "d": "Dis toujours que c'est bon même si ça fait mal"
+    },
+    "q3": {
+      "text": "Un(e) collègue s'attribue le mérite de ton travail. Tu...",
+      "a": "Abordes le sujet professionnellement en réunion",
+      "b": "Te plains auprès d'autres collègues",
+      "c": "T'attribues le mérite de son travail la prochaine fois",
+      "d": "Laisses passer et ne fais rien"
+    },
+    "q4": {
+      "text": "La personne que tu fréquentes ne répond pas pendant 3 jours. Tu...",
+      "a": "Envoies un message calme pour prendre des nouvelles",
+      "b": "Réfléchis trop et envoies plusieurs messages",
+      "c": "Postes quelque chose pour rendre jaloux/jalouse",
+      "d": "Fais semblant de ne pas avoir remarqué"
+    },
+    "q5": {
+      "text": "Ton ami(e) fait des commérages sur les autres avec toi. Tu...",
+      "a": "Changes de sujet ou exprimes ton malaise",
+      "b": "Écoutes mais ne participes pas",
+      "c": "Participes avec enthousiasme",
+      "d": "Supposes qu'il/elle fait aussi des commérages sur toi mais restes silencieux/se"
+    },
+    "q6": {
+      "text": "Ton/ta partenaire est jaloux/se quand tu sors avec des amis. Tu...",
+      "a": "As une conversation honnête sur la confiance",
+      "b": "Limites ton temps avec les amis pour éviter les conflits",
+      "c": "Le/la rends encore plus jaloux/se exprès",
+      "d": "Penses que la jalousie signifie plus d'amour"
+    },
+    "q7": {
+      "text": "Un(e) collègue t'interrompt toujours en réunion. Tu...",
+      "a": "Dis poliment mais fermement « J'aimerais finir mon point »",
+      "b": "Arrêtes de contribuer aux réunions",
+      "c": "Commences à l'interrompre aussi",
+      "d": "Ris chaque fois"
+    },
+    "q8": {
+      "text": "Ton rendez-vous est impoli avec le serveur. Tu...",
+      "a": "Reconnais que c'est un red flag et reconsidères",
+      "b": "Te sens gêné(e) mais ne dis rien",
+      "c": "Penses qu'il/elle est juste affirmé(e)",
+      "d": "T'excuses toi-même auprès du serveur"
+    },
+    "q9": {
+      "text": "Quelqu'un te fait le traitement du silence après une dispute. Tu...",
+      "a": "Lui donnes de l'espace puis inities une conversation calme",
+      "b": "Continues à t'excuser jusqu'à obtenir une réponse",
+      "c": "Lui fais le traitement du silence en retour",
+      "d": "Fais comme si rien ne s'était passé"
+    },
+    "q10": {
+      "text": "Ton ami(e) emprunte de l'argent et ne le rend jamais. Tu...",
+      "a": "Lui rappelles gentiment le prêt",
+      "b": "Ne lui prêtes plus jamais mais n'en parles pas",
+      "c": "Dis à tout le monde qu'il/elle n'est pas fiable",
+      "d": "Continues à prêter parce que tu ne peux pas dire non"
+    },
+    "q11": {
+      "text": "Ton/ta partenaire rejette tes sentiments comme une 'réaction excessive'. Tu...",
+      "a": "Expliques calmement pourquoi tes sentiments sont valides",
+      "b": "Commences à douter de tes propres émotions",
+      "c": "Rejettes ses sentiments en retour",
+      "d": "Acceptes et t'excuses d'être sensible"
+    },
+    "q12": {
+      "text": "Un(e) ami(e) partage tes secrets avec d'autres. Tu...",
+      "a": "Lui dis que ça a brisé ta confiance et poses une limite",
+      "b": "Prends tes distances sans expliquer pourquoi",
+      "c": "Partages ses secrets en représailles",
+      "d": "Fais semblant de ne pas savoir"
+    },
+    "q13": {
+      "text": "Ton rendez-vous ne parle que de lui/elle-même. Tu...",
+      "a": "Essaies d'orienter la conversation, puis évalues si c'est un schéma",
+      "b": "Hoches la tête et te sens invisible",
+      "c": "Racontes des histoires encore plus impressionnantes pour rivaliser",
+      "d": "Penses qu'il/elle est juste passionné(e) et c'est bien"
+    },
+    "q14": {
+      "text": "Quelqu'un s'excuse mais continue de faire la même chose. Tu...",
+      "a": "Poses une limite claire avec des conséquences",
+      "b": "Acceptes les excuses à chaque fois en espérant un changement",
+      "c": "Arrêtes d'accepter les excuses et gardes rancune",
+      "d": "Penses que tu es peut-être trop dur(e)"
+    },
+    "q15": {
+      "text": "Ton/ta partenaire soutient tes objectifs et célèbre tes réussites. Tu...",
+      "a": "Exprimes ta gratitude et le/la soutiens autant",
+      "b": "Te sens bien mais oublies de rendre la pareille",
+      "c": "Suspectes ses motivations",
+      "d": "Penses que tu ne mérites pas ce soutien"
+    }
+  },
+  "archetypes": {
+    "greenHigh": {
+      "title": "Le Drapeau Vert Ambulant",
+      "desc": "Tu es le rêve de tout le monde ! Des limites saines, une excellente communication et une maturité émotionnelle. Tu apportes stabilité et sécurité dans chaque relation."
+    },
+    "greenMed": {
+      "title": "Modèle Relationnel",
+      "desc": "Tu fais des choix sains dans la plupart des situations ! Tu peux vaciller parfois, mais dans l'ensemble tes schémas sont impressionnants."
+    },
+    "yellowHigh": {
+      "title": "En Construction",
+      "desc": "Conscient(e) de soi et en croissance active ! Pas encore parfait(e), mais tu vas dans la bonne direction."
+    },
+    "yellowMed": {
+      "title": "Diamant Brut",
+      "desc": "Plein(e) de potentiel ! Tu évites parfois les conflits ou ignores tes propres besoins, mais tu connais le bon chemin."
+    },
+    "redHigh": {
+      "title": "Le Red Flag Adorable",
+      "desc": "Charmant(e) mais chaotique ! Tu as tendance à laisser les émotions mener, mais c'est aussi une partie de ton charme irrésistible."
+    },
+    "redMed": {
+      "title": "La Tornade Passionnée",
+      "desc": "Parfois émotionnel(le) et impulsif/ve ! Ta passion est profonde, mais parfois cette énergie va dans la mauvaise direction."
+    },
+    "mixed": {
+      "title": "Le Personnage Complexe",
+      "desc": "Imprévisible et multidimensionnel(le) ! Tu montres des côtés complètement différents selon la situation. Une personnalité fascinante."
+    },
+    "balanced": {
+      "title": "La Belle Contradiction",
+      "desc": "Tous les drapeaux en parfait équilibre ! Tu n'es pas parfait(e), mais accepter tous tes côtés est le début de la croissance."
+    }
+  },
+  "dimensions": {
+    "communication": "Communication",
+    "boundaries": "Limites",
+    "maturity": "Maturité Émotionnelle",
+    "loyalty": "Loyauté"
+  },
+  "result": {
+    "title": "Ton Rapport de Drapeaux",
+    "flagRatio": "Ratio de Drapeaux",
+    "dimensions": "Dimensions de Personnalité",
+    "retake": "Refaire le test"
+  },
+  "share": {
+    "title": "Test Red Flag Green Flag",
+    "text": "Je suis {green}% Drapeau Vert ! 🟢 Mon type : {archetype}",
+    "copied": "Copié !",
+    "twitter": "Partager sur Twitter",
+    "copyUrl": "Copier le lien"
+  },
+  "nav": {
+    "back": "DopaBrain Accueil"
+  }
+}

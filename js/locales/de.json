@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "title": "Red Flag Green Flag Test - Welche Flagge bist du? | DopaBrain",
+    "description": "15 Szenarien, um dein Verhältnis von roten und grünen Flaggen zu entdecken! Dating, Freundschaft und Arbeitsplatz: welche Flagge bist du?",
+    "og_title": "Red Flag Green Flag Test - Welche Flagge bist du? | DopaBrain",
+    "og_description": "15 Szenarien, um dein Verhältnis von roten vs. grünen Flaggen in Beziehungen zu entdecken!",
+    "twitter_title": "Red Flag Green Flag Test | DopaBrain",
+    "twitter_description": "15 Szenarien, um dein Flaggen-Verhältnis zu enthüllen!"
+  },
+  "a11y": {
+    "skip": "Zum Inhalt springen"
+  },
+  "app": {
+    "title": "Red Flag Green Flag Test",
+    "subtitle": "Bist du eine wandelnde grüne Flagge?",
+    "loading": "Laden...",
+    "start": "Test starten"
+  },
+  "question": {
+    "progress": "{current} / {total}"
+  },
+  "questions": {
+    "q1": {
+      "text": "Dein Partner überprüft dein Handy ohne zu fragen. Du...",
+      "a": "Sprichst direkt über Grenzen",
+      "b": "Fühlst dich unwohl, sagst aber nichts",
+      "c": "Überprüfst als Rache auch sein/ihr Handy",
+      "d": "Findest es völlig normal"
+    },
+    "q2": {
+      "text": "Ein Freund sagt ständig Pläne ab. Du...",
+      "a": "Sprichst offen darüber, wie es dich betrifft",
+      "b": "Hörst auf einzuladen, ohne es zu erklären",
+      "c": "Sagst beim nächsten Mal auch ab, als Vergeltung",
+      "d": "Sagst immer, es ist okay, obwohl es wehtut"
+    },
+    "q3": {
+      "text": "Ein Kollege nimmt die Anerkennung für deine Arbeit. Du...",
+      "a": "Sprichst es professionell in einem Meeting an",
+      "b": "Beschwerst dich bei anderen Kollegen",
+      "c": "Nimmst dir nächstes Mal die Anerkennung für seine Arbeit",
+      "d": "Lässt es durchgehen und tust nichts"
+    },
+    "q4": {
+      "text": "Jemand, mit dem du dich triffst, antwortet 3 Tage nicht. Du...",
+      "a": "Schickst eine ruhige Nachricht, um nachzufragen",
+      "b": "Denkst zu viel nach und schickst mehrere Nachrichten",
+      "c": "Postest etwas, um Eifersucht zu erzeugen",
+      "d": "Tust so, als hättest du es nicht bemerkt"
+    },
+    "q5": {
+      "text": "Dein Freund tratscht über andere mit dir. Du...",
+      "a": "Wechselst das Thema oder drückst Unbehagen aus",
+      "b": "Hörst zu, aber beteiligst dich nicht",
+      "c": "Machst begeistert mit",
+      "d": "Gehst davon aus, dass auch über dich getratscht wird, schweigst aber"
+    },
+    "q6": {
+      "text": "Dein Partner wird eifersüchtig, wenn du mit Freunden abhängst. Du...",
+      "a": "Führst ein ehrliches Gespräch über Vertrauen",
+      "b": "Reduzierst die Zeit mit Freunden, um Konflikte zu vermeiden",
+      "c": "Machst ihn/sie absichtlich noch eifersüchtiger",
+      "d": "Denkst, Eifersucht bedeutet mehr Liebe"
+    },
+    "q7": {
+      "text": "Ein Kollege unterbricht dich ständig in Meetings. Du...",
+      "a": "Sagst höflich, aber bestimmt: \"Ich möchte meinen Punkt zu Ende bringen\"",
+      "b": "Hörst auf, in Meetings beizutragen",
+      "c": "Fängst an, ihn/sie auch zu unterbrechen",
+      "d": "Lachst es jedes Mal weg"
+    },
+    "q8": {
+      "text": "Dein Date ist unhöflich zum Kellner. Du...",
+      "a": "Erkennst es als Red Flag und überdenkst es",
+      "b": "Findest es peinlich, sagst aber nichts",
+      "c": "Denkst, er/sie ist nur durchsetzungsfähig",
+      "d": "Entschuldigst dich selbst beim Kellner"
+    },
+    "q9": {
+      "text": "Nach einem Streit schweigt dich jemand an. Du...",
+      "a": "Gibst ihm/ihr Raum und initiierst dann ein ruhiges Gespräch",
+      "b": "Entschuldigst dich ständig, bis eine Antwort kommt",
+      "c": "Schweigst als Antwort auch",
+      "d": "Tust so, als wäre nichts passiert"
+    },
+    "q10": {
+      "text": "Dein Freund leiht sich Geld und gibt es nie zurück. Du...",
+      "a": "Erinnerst freundlich an den Kredit",
+      "b": "Leihst nie wieder Geld, erwähnst es aber nicht",
+      "c": "Erzählst allen, dass er/sie unzuverlässig ist",
+      "d": "Leihst weiter, weil du nicht Nein sagen kannst"
+    },
+    "q11": {
+      "text": "Dein Partner tut deine Gefühle als 'Überreaktion' ab. Du...",
+      "a": "Erklärst ruhig, warum deine Gefühle berechtigt sind",
+      "b": "Fängst an, an deinen eigenen Emotionen zu zweifeln",
+      "c": "Tust seine/ihre Gefühle auch ab",
+      "d": "Stimmst zu und entschuldigst dich für deine Empfindlichkeit"
+    },
+    "q12": {
+      "text": "Ein Freund teilt deine Geheimnisse mit anderen. Du...",
+      "a": "Sagst, dass das Vertrauen gebrochen wurde, und setzt eine Grenze",
+      "b": "Distanzierst dich, ohne zu erklären warum",
+      "c": "Teilst als Rache seine/ihre Geheimnisse",
+      "d": "Tust so, als wüsstest du nicht, dass er/sie es getan hat"
+    },
+    "q13": {
+      "text": "Dein Date redet nur über sich selbst. Du...",
+      "a": "Versuchst das Gespräch zu lenken und bewertest, ob es ein Muster ist",
+      "b": "Nickst mit und fühlst dich unsichtbar",
+      "c": "Versuchst mit noch beeindruckenderen Geschichten zu übertrumpfen",
+      "d": "Denkst, er/sie ist einfach leidenschaftlich und das ist okay"
+    },
+    "q14": {
+      "text": "Jemand entschuldigt sich, macht aber weiter dasselbe. Du...",
+      "a": "Setzt eine klare Grenze mit Konsequenzen",
+      "b": "Akzeptierst die Entschuldigung jedes Mal in der Hoffnung auf Änderung",
+      "c": "Hörst auf, Entschuldigungen zu akzeptieren, und hegst Groll",
+      "d": "Denkst, vielleicht bist du zu streng"
+    },
+    "q15": {
+      "text": "Dein Partner unterstützt deine Ziele und feiert deine Erfolge. Du...",
+      "a": "Drückst Dankbarkeit aus und unterstützt ihn/sie genauso",
+      "b": "Fühlst dich großartig, vergisst aber es zu erwidern",
+      "c": "Bist misstrauisch gegenüber seinen/ihren Motiven",
+      "d": "Denkst, du verdienst diese Unterstützung nicht"
+    }
+  },
+  "archetypes": {
+    "greenHigh": {
+      "title": "Die wandelnde grüne Flagge",
+      "desc": "Du bist jedermanns Traum! Gesunde Grenzen, tolle Kommunikation und emotionale Reife. Du bringst Stabilität und Sicherheit in jede Beziehung."
+    },
+    "greenMed": {
+      "title": "Beziehungs-Vorbild",
+      "desc": "Du triffst in den meisten Situationen gesunde Entscheidungen! Manchmal schwankst du, aber insgesamt sind deine Muster beeindruckend."
+    },
+    "yellowHigh": {
+      "title": "Work in Progress",
+      "desc": "Selbstbewusst und aktiv wachsend! Noch nicht perfekt, aber du bist auf dem richtigen Weg."
+    },
+    "yellowMed": {
+      "title": "Rohdiamant",
+      "desc": "Voller Potenzial! Du vermeidest manchmal Konflikte oder ignorierst deine eigenen Bedürfnisse, aber du kennst den richtigen Weg."
+    },
+    "redHigh": {
+      "title": "Liebenswerte rote Flagge",
+      "desc": "Charmant, aber chaotisch! Du neigst dazu, Emotionen die Führung zu überlassen, aber das ist auch Teil deines unwiderstehlichen Charmes."
+    },
+    "redMed": {
+      "title": "Leidenschaftlicher Tornado",
+      "desc": "Manchmal emotional und impulsiv! Deine Leidenschaft geht tief, aber manchmal fließt diese Energie in die falsche Richtung."
+    },
+    "mixed": {
+      "title": "Komplexer Charakter",
+      "desc": "Unberechenbar und vielschichtig! Du zeigst je nach Situation völlig verschiedene Seiten. Eine faszinierende Persönlichkeit."
+    },
+    "balanced": {
+      "title": "Schöner Widerspruch",
+      "desc": "Alle Flaggen in perfekter Balance! Du bist nicht perfekt, aber alle Seiten von dir zu akzeptieren ist der Anfang des Wachstums."
+    }
+  },
+  "dimensions": {
+    "communication": "Kommunikation",
+    "boundaries": "Grenzen",
+    "maturity": "Emotionale Reife",
+    "loyalty": "Loyalität"
+  },
+  "result": {
+    "title": "Dein Flaggen-Bericht",
+    "flagRatio": "Flaggen-Verhältnis",
+    "dimensions": "Persönlichkeitsdimensionen",
+    "retake": "Test wiederholen"
+  },
+  "share": {
+    "title": "Red Flag Green Flag Test",
+    "text": "Ich bin {green}% Grüne Flagge! 🟢 Mein Typ: {archetype}",
+    "copied": "Kopiert!",
+    "twitter": "Auf Twitter teilen",
+    "copyUrl": "Link kopieren"
+  },
+  "nav": {
+    "back": "DopaBrain Startseite"
+  }
+}

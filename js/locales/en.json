@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "title": "Red Flag Green Flag Test - What Flag Are You? | DopaBrain",
+    "description": "15 scenario-based questions to reveal your red flag and green flag ratio! Dating, friendships, and workplace — what flag are you?",
+    "og_title": "Red Flag Green Flag Test - What Flag Are You? | DopaBrain",
+    "og_description": "15 scenarios to discover your red flag vs green flag ratio in relationships!",
+    "twitter_title": "Red Flag Green Flag Test | DopaBrain",
+    "twitter_description": "15 scenarios to reveal your flag ratio!"
+  },
+  "a11y": {
+    "skip": "Skip to content"
+  },
+  "app": {
+    "title": "Red Flag Green Flag Test",
+    "subtitle": "Are you a walking green flag?",
+    "loading": "Loading...",
+    "start": "Start Test"
+  },
+  "question": {
+    "progress": "{current} / {total}"
+  },
+  "questions": {
+    "q1": {
+      "text": "Your partner checks your phone without asking. You...",
+      "a": "Confront them directly about boundaries",
+      "b": "Feel uncomfortable but say nothing",
+      "c": "Check their phone back for revenge",
+      "d": "Think it's totally normal"
+    },
+    "q2": {
+      "text": "A friend constantly cancels plans. You...",
+      "a": "Talk openly about how it affects you",
+      "b": "Stop inviting them without explanation",
+      "c": "Cancel on them next time for payback",
+      "d": "Always say it's fine even though it hurts"
+    },
+    "q3": {
+      "text": "Your colleague takes credit for your work. You...",
+      "a": "Address it professionally in a meeting",
+      "b": "Complain to other coworkers about it",
+      "c": "Take credit for their work next time",
+      "d": "Let it go and do nothing"
+    },
+    "q4": {
+      "text": "Someone you're dating doesn't text back for 3 days. You...",
+      "a": "Send a calm check-in message",
+      "b": "Overthink and send multiple texts",
+      "c": "Post something to make them jealous",
+      "d": "Pretend you didn't notice"
+    },
+    "q5": {
+      "text": "Your friend gossips about others to you. You...",
+      "a": "Change the subject or express discomfort",
+      "b": "Listen but don't contribute",
+      "c": "Join in enthusiastically",
+      "d": "Assume they gossip about you too but stay silent"
+    },
+    "q6": {
+      "text": "Your partner gets jealous when you hang out with friends. You...",
+      "a": "Have an honest conversation about trust",
+      "b": "Limit your time with friends to avoid conflict",
+      "c": "Make them more jealous on purpose",
+      "d": "Think jealousy means they love you more"
+    },
+    "q7": {
+      "text": "A coworker always interrupts you in meetings. You...",
+      "a": "Politely but firmly say \"I'd like to finish my point\"",
+      "b": "Stop contributing to meetings altogether",
+      "c": "Start interrupting them back",
+      "d": "Laugh it off every time"
+    },
+    "q8": {
+      "text": "Your date is rude to the waiter. You...",
+      "a": "Recognize it as a red flag and reconsider",
+      "b": "Feel embarrassed but say nothing",
+      "c": "Think they're just being assertive",
+      "d": "Apologize to the waiter yourself"
+    },
+    "q9": {
+      "text": "Someone gives you the silent treatment after a fight. You...",
+      "a": "Give them space then initiate a calm talk",
+      "b": "Keep apologizing until they respond",
+      "c": "Give them the silent treatment back",
+      "d": "Act like nothing happened"
+    },
+    "q10": {
+      "text": "Your friend borrows money and never pays back. You...",
+      "a": "Kindly remind them about the loan",
+      "b": "Never lend them money again but don't mention it",
+      "c": "Tell everyone they're unreliable",
+      "d": "Keep lending because you can't say no"
+    },
+    "q11": {
+      "text": "Your partner dismisses your feelings as 'overreacting'. You...",
+      "a": "Explain why your feelings are valid calmly",
+      "b": "Start doubting your own emotions",
+      "c": "Dismiss their feelings in return",
+      "d": "Agree and apologize for being sensitive"
+    },
+    "q12": {
+      "text": "A friend shares your secrets with others. You...",
+      "a": "Tell them that broke your trust and set a boundary",
+      "b": "Distance yourself without explaining why",
+      "c": "Share their secrets as revenge",
+      "d": "Pretend you don't know they did it"
+    },
+    "q13": {
+      "text": "Your date only talks about themselves. You...",
+      "a": "Try to steer the conversation, then decide if it's a pattern",
+      "b": "Nod along and feel invisible",
+      "c": "One-up their stories to compete",
+      "d": "Think they're just passionate and it's fine"
+    },
+    "q14": {
+      "text": "Someone apologizes but keeps doing the same thing. You...",
+      "a": "Set a clear boundary with consequences",
+      "b": "Accept the apology every time hoping they'll change",
+      "c": "Stop accepting apologies and hold grudges",
+      "d": "Think maybe you're being too harsh"
+    },
+    "q15": {
+      "text": "Your partner supports your goals and celebrates your wins. You...",
+      "a": "Express gratitude and support them equally",
+      "b": "Feel great but forget to reciprocate",
+      "c": "Feel suspicious of their motives",
+      "d": "Think you don't deserve the support"
+    }
+  },
+  "archetypes": {
+    "greenHigh": {
+      "title": "The Walking Green Flag",
+      "desc": "You're everyone's dream! Healthy boundaries, great communication, and emotional maturity. You bring stability and safety to every relationship."
+    },
+    "greenMed": {
+      "title": "The Relationship Role Model",
+      "desc": "You make healthy choices in most situations! You might waver sometimes, but overall your relationship patterns are impressive."
+    },
+    "yellowHigh": {
+      "title": "The Work in Progress",
+      "desc": "Self-aware and actively growing! You're not perfect yet, but you're heading in the right direction. Keep going!"
+    },
+    "yellowMed": {
+      "title": "The Diamond in the Rough",
+      "desc": "Full of potential! You sometimes avoid conflict or ignore your own needs, but you know what the right path looks like."
+    },
+    "redHigh": {
+      "title": "The Loveable Red Flag",
+      "desc": "Charming but chaotic! You tend to let emotions lead the way, but that's also part of your irresistible appeal."
+    },
+    "redMed": {
+      "title": "The Passionate Tornado",
+      "desc": "Emotional and impulsive at times! Your passion runs deep, but sometimes that energy flows in the wrong direction."
+    },
+    "mixed": {
+      "title": "The Complex Character",
+      "desc": "Unpredictable and multi-layered! You show completely different sides depending on the situation. A fascinating personality."
+    },
+    "balanced": {
+      "title": "The Beautiful Contradiction",
+      "desc": "All flags in perfect balance! You're not perfect, but accepting all sides of yourself is where growth begins."
+    }
+  },
+  "dimensions": {
+    "communication": "Communication",
+    "boundaries": "Boundaries",
+    "maturity": "Emotional Maturity",
+    "loyalty": "Loyalty"
+  },
+  "result": {
+    "title": "Your Flag Report",
+    "flagRatio": "Flag Ratio",
+    "dimensions": "Personality Dimensions",
+    "retake": "Retake Test"
+  },
+  "share": {
+    "title": "Red Flag Green Flag Test",
+    "text": "I'm {green}% Green Flag! 🟢 My type: {archetype}",
+    "copied": "Copied!",
+    "twitter": "Share on Twitter",
+    "copyUrl": "Copy Link"
+  },
+  "nav": {
+    "back": "DopaBrain Home"
+  }
+}

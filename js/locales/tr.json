@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "title": "Kırmızı Bayrak Yeşil Bayrak Testi - Hangi Bayraksın? | DopaBrain",
+    "description": "15 senaryoyla kırmızı ve yeşil bayrak oranını keşfet! Flört, arkadaşlık ve iş yerinde sen hangi bayraksın?",
+    "og_title": "Kırmızı Bayrak Yeşil Bayrak Testi - Hangi Bayraksın? | DopaBrain",
+    "og_description": "15 senaryoyla ilişkilerindeki kırmızı ve yeşil bayrak oranını keşfet!",
+    "twitter_title": "Kırmızı Bayrak Yeşil Bayrak Testi | DopaBrain",
+    "twitter_description": "15 senaryoyla bayrak oranını keşfet!"
+  },
+  "a11y": {
+    "skip": "İçeriğe geç"
+  },
+  "app": {
+    "title": "Kırmızı Bayrak Yeşil Bayrak Testi",
+    "subtitle": "Yürüyen bir yeşil bayrak mısın?",
+    "loading": "Yükleniyor...",
+    "start": "Teste Başla"
+  },
+  "question": {
+    "progress": "{current} / {total}"
+  },
+  "questions": {
+    "q1": {
+      "text": "Parterin sormadan telefonunu kontrol ediyor. Sen...",
+      "a": "Sınırlar hakkında doğrudan konuşursun",
+      "b": "Rahatsız hissedersin ama bir şey demezsin",
+      "c": "Misilleme olarak onun telefonunu da kontrol edersin",
+      "d": "Bunun tamamen normal olduğunu düşünürsün"
+    },
+    "q2": {
+      "text": "Bir arkadaşın sürekli planları iptal ediyor. Sen...",
+      "a": "Bunun seni nasıl etkilediğini açıkça konuşursun",
+      "b": "Açıklama yapmadan davet etmeyi bırakırsın",
+      "c": "Bir dahaki sefere sen de iptal edersin",
+      "d": "Acıtsa da her zaman sorun yok dersin"
+    },
+    "q3": {
+      "text": "İş arkadaşın senin işinin övgüsünü kendine mal ediyor. Sen...",
+      "a": "Toplantıda profesyonelce ele alırsın",
+      "b": "Diğer iş arkadaşlarına şikayet edersin",
+      "c": "Bir dahaki sefere onun işinin övgüsünü alırsın",
+      "d": "Bırakır ve hiçbir şey yapmazsın"
+    },
+    "q4": {
+      "text": "Çıktığın kişi 3 gündür mesaj atmıyor. Sen...",
+      "a": "Sakin bir hal hatır mesajı gönderirsin",
+      "b": "Aşırı düşünür ve birden fazla mesaj atarsın",
+      "c": "Kıskandırmak için bir şey paylaşırsın",
+      "d": "Fark etmemiş gibi yaparsın"
+    },
+    "q5": {
+      "text": "Arkadaşın sana başkaları hakkında dedikodu yapıyor. Sen...",
+      "a": "Konuyu değiştirirsin veya rahatsızlığını belirtirsin",
+      "b": "Dinlersin ama katılmazsın",
+      "c": "Coşkuyla katılırsın",
+      "d": "Senin hakkında da dedikodu yaptıklarını varsayarsın ama susarsın"
+    },
+    "q6": {
+      "text": "Partnerin arkadaşlarınla takıldığında kıskanıyor. Sen...",
+      "a": "Güven hakkında dürüst bir konuşma yaparsın",
+      "b": "Çatışmayı önlemek için arkadaşlarınla geçirdiğin zamanı azaltırsın",
+      "c": "Bilerek daha çok kıskandırırsın",
+      "d": "Kıskançlığın daha çok sevmek anlamına geldiğini düşünürsün"
+    },
+    "q7": {
+      "text": "İş arkadaşın toplantılarda hep sözünü kesiyor. Sen...",
+      "a": "Kibar ama kararlı bir şekilde \"Sözümü bitirmek istiyorum\" dersin",
+      "b": "Toplantılara katkıda bulunmayı bırakırsın",
+      "c": "Onun da sözünü kesmeye başlarsın",
+      "d": "Her seferinde güler geçersin"
+    },
+    "q8": {
+      "text": "Randevun garsona kaba davranıyor. Sen...",
+      "a": "Bunu kırmızı bayrak olarak görür ve tekrar düşünürsün",
+      "b": "Utanırsın ama bir şey demezsin",
+      "c": "Sadece iddialı olduğunu düşünürsün",
+      "d": "Kendim garsona özür dilersin"
+    },
+    "q9": {
+      "text": "Bir kavgadan sonra biri sana soğuk muamele yapıyor. Sen...",
+      "a": "Onlara alan verirsin, sonra sakin bir konuşma başlatırsın",
+      "b": "Cevap verene kadar özür dilemeye devam edersin",
+      "c": "Aynı şekilde soğuk muamele yaparsın",
+      "d": "Hiçbir şey olmamış gibi davranırsın"
+    },
+    "q10": {
+      "text": "Arkadaşın borç alıp geri ödemiyor. Sen...",
+      "a": "Nazikçe borcu hatırlatırsın",
+      "b": "Bir daha borç vermezsin ama bahsetmezsin",
+      "c": "Herkese güvenilmez olduğunu söylersin",
+      "d": "Hayır diyemediğin için borç vermeye devam edersin"
+    },
+    "q11": {
+      "text": "Partnerin duygularını 'abartıyorsun' diye geçiştiriyor. Sen...",
+      "a": "Sakin bir şekilde duygularının neden geçerli olduğunu açıklarsın",
+      "b": "Kendi duygularından şüphe etmeye başlarsın",
+      "c": "Onun duygularını da geçiştirirsin",
+      "d": "Katılır ve hassas olduğun için özür dilersin"
+    },
+    "q12": {
+      "text": "Arkadaşın sırlarını başkalarıyla paylaşıyor. Sen...",
+      "a": "Güvenini kırdığını söyler ve sınır koyarsın",
+      "b": "Nedenini açıklamadan uzaklaşırsın",
+      "c": "Misilleme olarak onların sırlarını paylaşırsın",
+      "d": "Bilmiyormuş gibi yaparsın"
+    },
+    "q13": {
+      "text": "Randevun sadece kendinden bahsediyor. Sen...",
+      "a": "Konuşmayı yönlendirmeye çalışır, sonra bir kalıp mı diye değerlendirirsin",
+      "b": "Başını sallayıp görünmez hissedersin",
+      "c": "Daha etkileyici hikayelerle yarışırsın",
+      "d": "Sadece tutkulu olduğunu düşünür ve sorun görmezsin"
+    },
+    "q14": {
+      "text": "Biri özür diliyor ama aynı şeyi yapmaya devam ediyor. Sen...",
+      "a": "Sonuçları olan net bir sınır koyarsın",
+      "b": "Değişeceklerini umarak her seferinde özrü kabul edersin",
+      "c": "Özürleri kabul etmeyi bırakır ve kin tutarsın",
+      "d": "Belki çok sert olduğumu düşünürsün"
+    },
+    "q15": {
+      "text": "Partnerin hedeflerini destekliyor ve başarılarını kutluyor. Sen...",
+      "a": "Minnettarlığını ifade eder ve eşit derecede destek olursun",
+      "b": "Harika hissedersin ama karşılık vermeyi unutursun",
+      "c": "Niyetlerinden şüphe duyarsın",
+      "d": "Bu desteği hak etmediğini düşünürsün"
+    }
+  },
+  "archetypes": {
+    "greenHigh": {
+      "title": "Yürüyen Yeşil Bayrak",
+      "desc": "Herkesin hayali sensin! Sağlıklı sınırlar, harika iletişim ve duygusal olgunluk. Her ilişkiye istikrar ve güvenlik getiriyorsun."
+    },
+    "greenMed": {
+      "title": "İlişki Rol Modeli",
+      "desc": "Çoğu durumda sağlıklı tercihler yapıyorsun! Bazen tereddüt edebilirsin ama genel olarak kalıpların etkileyici."
+    },
+    "yellowHigh": {
+      "title": "Gelişmekte Olan",
+      "desc": "Öz farkındalığı yüksek ve aktif olarak büyüyen! Henüz mükemmel değilsin ama doğru yönde ilerliyorsun."
+    },
+    "yellowMed": {
+      "title": "İşlenmemiş Elmas",
+      "desc": "Potansiyelle dolu! Bazen çatışmadan kaçınır veya kendi ihtiyaçlarını görmezden gelirsin ama doğru yolu biliyorsun."
+    },
+    "redHigh": {
+      "title": "Sevimli Kırmızı Bayrak",
+      "desc": "Çekici ama kaotik! Duygulara kapılma eğiliminde olsan da bu da karşı konulmaz çekiciliğinin bir parçası."
+    },
+    "redMed": {
+      "title": "Tutkulu Kasırga",
+      "desc": "Bazen duygusal ve dürtüsel! Tutku derinlerde akıyor ama bazen o enerji yanlış yöne gidiyor."
+    },
+    "mixed": {
+      "title": "Karmaşık Karakter",
+      "desc": "Öngörülemez ve çok katmanlı! Duruma göre tamamen farklı yüzler gösteriyorsun. Büyüleyici bir kişilik."
+    },
+    "balanced": {
+      "title": "Güzel Çelişki",
+      "desc": "Tüm bayraklar mükemmel dengede! Mükemmel değilsin ama tüm yönlerini kabul etmek büyümenin başlangıcı."
+    }
+  },
+  "dimensions": {
+    "communication": "İletişim",
+    "boundaries": "Sınırlar",
+    "maturity": "Duygusal Olgunluk",
+    "loyalty": "Sadakat"
+  },
+  "result": {
+    "title": "Bayrak Raporun",
+    "flagRatio": "Bayrak Oranı",
+    "dimensions": "Kişilik Boyutları",
+    "retake": "Tekrar Çöz"
+  },
+  "share": {
+    "title": "Kırmızı Bayrak Yeşil Bayrak Testi",
+    "text": "Ben {green}% Yeşil Bayrak'ım! 🟢 Tipim: {archetype}",
+    "copied": "Kopyalandı!",
+    "twitter": "Twitter'da Paylaş",
+    "copyUrl": "Linki Kopyala"
+  },
+  "nav": {
+    "back": "DopaBrain Ana Sayfa"
+  }
+}

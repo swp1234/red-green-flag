@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "title": "Teste Bandeira Vermelha e Verde - Qual bandeira você é? | DopaBrain",
+    "description": "15 cenários para descobrir sua proporção de bandeiras vermelhas e verdes! Namoro, amizades e trabalho: qual bandeira você é?",
+    "og_title": "Teste Bandeira Vermelha e Verde - Qual bandeira você é? | DopaBrain",
+    "og_description": "15 cenários para descobrir sua proporção de bandeiras vermelhas vs verdes nos relacionamentos!",
+    "twitter_title": "Teste Bandeira Vermelha e Verde | DopaBrain",
+    "twitter_description": "15 cenários para revelar sua proporção de bandeiras!"
+  },
+  "a11y": {
+    "skip": "Pular para o conteúdo"
+  },
+  "app": {
+    "title": "Teste Bandeira Vermelha e Verde",
+    "subtitle": "Você é uma bandeira verde ambulante?",
+    "loading": "Carregando...",
+    "start": "Começar Teste"
+  },
+  "question": {
+    "progress": "{current} / {total}"
+  },
+  "questions": {
+    "q1": {
+      "text": "Seu/sua parceiro/a mexe no seu celular sem pedir. Você...",
+      "a": "Confronta diretamente sobre limites",
+      "b": "Se sente desconfortável mas não diz nada",
+      "c": "Mexe no celular dele/a como vingança",
+      "d": "Acha que é totalmente normal"
+    },
+    "q2": {
+      "text": "Um/a amigo/a sempre cancela planos. Você...",
+      "a": "Conversa abertamente sobre como isso te afeta",
+      "b": "Para de convidar sem dar explicação",
+      "c": "Cancela da próxima vez como vingança",
+      "d": "Sempre diz que tudo bem mesmo que doa"
+    },
+    "q3": {
+      "text": "Um colega leva o crédito pelo seu trabalho. Você...",
+      "a": "Aborda profissionalmente em uma reunião",
+      "b": "Reclama com outros colegas",
+      "c": "Leva o crédito pelo trabalho dele na próxima",
+      "d": "Deixa pra lá e não faz nada"
+    },
+    "q4": {
+      "text": "A pessoa com quem você sai não responde por 3 dias. Você...",
+      "a": "Envia uma mensagem tranquila perguntando como está",
+      "b": "Pensa demais e manda várias mensagens",
+      "c": "Posta algo para causar ciúmes",
+      "d": "Finge que não percebeu"
+    },
+    "q5": {
+      "text": "Seu/sua amigo/a fofoca sobre outros com você. Você...",
+      "a": "Muda de assunto ou expressa desconforto",
+      "b": "Ouve mas não participa",
+      "c": "Participa com entusiasmo",
+      "d": "Assume que fofocam de você também mas fica em silêncio"
+    },
+    "q6": {
+      "text": "Seu/sua parceiro/a fica com ciúmes quando você sai com amigos. Você...",
+      "a": "Tem uma conversa honesta sobre confiança",
+      "b": "Limita seu tempo com amigos para evitar conflito",
+      "c": "Provoca mais ciúmes de propósito",
+      "d": "Acha que ciúmes significa mais amor"
+    },
+    "q7": {
+      "text": "Um colega sempre te interrompe em reuniões. Você...",
+      "a": "Diz educada mas firmemente \"Gostaria de terminar meu ponto\"",
+      "b": "Para de contribuir em reuniões",
+      "c": "Começa a interromper também",
+      "d": "Ri e deixa passar toda vez"
+    },
+    "q8": {
+      "text": "Seu encontro é grosseiro com o garçom. Você...",
+      "a": "Reconhece como bandeira vermelha e reconsidера",
+      "b": "Fica envergonhado/a mas não diz nada",
+      "c": "Acha que a pessoa é apenas assertiva",
+      "d": "Pede desculpas ao garçom você mesmo/a"
+    },
+    "q9": {
+      "text": "Alguém te dá gelo depois de uma briga. Você...",
+      "a": "Dá espaço e depois inicia uma conversa calma",
+      "b": "Continua se desculpando até receber resposta",
+      "c": "Devolve o tratamento de gelo",
+      "d": "Age como se nada tivesse acontecido"
+    },
+    "q10": {
+      "text": "Seu/sua amigo/a pede dinheiro emprestado e nunca devolve. Você...",
+      "a": "Gentilmente lembra sobre o empréstimo",
+      "b": "Nunca mais empresta mas não menciona",
+      "c": "Conta para todos que a pessoa não é confiável",
+      "d": "Continua emprestando porque não consegue dizer não"
+    },
+    "q11": {
+      "text": "Seu/sua parceiro/a descarta seus sentimentos como 'exagero'. Você...",
+      "a": "Explica calmamente por que seus sentimentos são válidos",
+      "b": "Começa a duvidar das próprias emoções",
+      "c": "Descarta os sentimentos dele/a também",
+      "d": "Concorda e pede desculpas por ser sensível"
+    },
+    "q12": {
+      "text": "Um/a amigo/a conta seus segredos para outros. Você...",
+      "a": "Diz que quebrou sua confiança e estabelece limites",
+      "b": "Se afasta sem explicar o motivo",
+      "c": "Conta os segredos dele/a como vingança",
+      "d": "Finge que não sabe que fizeram isso"
+    },
+    "q13": {
+      "text": "Seu encontro só fala sobre si mesmo/a. Você...",
+      "a": "Tenta direcionar a conversa e avalia se é um padrão",
+      "b": "Acena com a cabeça e se sente invisível",
+      "c": "Compete contando histórias mais impressionantes",
+      "d": "Acha que a pessoa é apenas apaixonada e tudo bem"
+    },
+    "q14": {
+      "text": "Alguém pede desculpas mas continua fazendo a mesma coisa. Você...",
+      "a": "Estabelece um limite claro com consequências",
+      "b": "Aceita o pedido de desculpas toda vez esperando mudança",
+      "c": "Para de aceitar desculpas e guarda rancor",
+      "d": "Acha que talvez esteja sendo duro/a demais"
+    },
+    "q15": {
+      "text": "Seu/sua parceiro/a apoia seus objetivos e celebra suas conquistas. Você...",
+      "a": "Expressa gratidão e apoia igualmente",
+      "b": "Se sente ótimo/a mas esquece de retribuir",
+      "c": "Desconfia das intenções",
+      "d": "Acha que não merece esse apoio"
+    }
+  },
+  "archetypes": {
+    "greenHigh": {
+      "title": "Bandeira Verde Ambulante",
+      "desc": "Você é o sonho de todos! Limites saudáveis, ótima comunicação e maturidade emocional. Você traz estabilidade e segurança para todo relacionamento."
+    },
+    "greenMed": {
+      "title": "Modelo de Relacionamento",
+      "desc": "Você faz escolhas saudáveis na maioria das situações! Pode vacilar às vezes, mas no geral seus padrões são impressionantes."
+    },
+    "yellowHigh": {
+      "title": "Em Construção",
+      "desc": "Autoconsciente e em crescimento ativo! Ainda não é perfeito/a, mas está indo na direção certa."
+    },
+    "yellowMed": {
+      "title": "Diamante Bruto",
+      "desc": "Cheio/a de potencial! Às vezes evita conflitos ou ignora suas próprias necessidades, mas sabe qual é o caminho certo."
+    },
+    "redHigh": {
+      "title": "Bandeira Vermelha Adorável",
+      "desc": "Charmoso/a mas caótico/a! Tende a se deixar levar pelas emoções, mas isso também faz parte do seu charme irresistível."
+    },
+    "redMed": {
+      "title": "Tornado Apaixonado",
+      "desc": "Às vezes emocional e impulsivo/a! Sua paixão é profunda, mas às vezes essa energia flui na direção errada."
+    },
+    "mixed": {
+      "title": "Personagem Complexo",
+      "desc": "Imprevisível e multifacetado/a! Mostra lados completamente diferentes dependendo da situação. Uma personalidade fascinante."
+    },
+    "balanced": {
+      "title": "Bela Contradição",
+      "desc": "Todas as bandeiras em perfeito equilíbrio! Não é perfeito/a, mas aceitar todos os seus lados é onde o crescimento começa."
+    }
+  },
+  "dimensions": {
+    "communication": "Comunicação",
+    "boundaries": "Limites",
+    "maturity": "Maturidade Emocional",
+    "loyalty": "Lealdade"
+  },
+  "result": {
+    "title": "Seu Relatório de Bandeiras",
+    "flagRatio": "Proporção de Bandeiras",
+    "dimensions": "Dimensões de Personalidade",
+    "retake": "Refazer Teste"
+  },
+  "share": {
+    "title": "Teste Bandeira Vermelha e Verde",
+    "text": "Sou {green}% Bandeira Verde! 🟢 Meu tipo: {archetype}",
+    "copied": "Copiado!",
+    "twitter": "Compartilhar no Twitter",
+    "copyUrl": "Copiar Link"
+  },
+  "nav": {
+    "back": "DopaBrain Início"
+  }
+}
