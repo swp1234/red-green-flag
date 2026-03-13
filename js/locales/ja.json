@@ -170,7 +170,9 @@
     "title": "あなたのフラッグレポート",
     "flagRatio": "フラッグ比率",
     "dimensions": "パーソナリティ次元",
-    "retake": "もう一度診断"
+    "retake": "もう一度診断",
+    "moreTests": "もっとテストを探す",
+    "percentileStat": "参加者の<strong>{percent}%</strong>だけがあなたと同じフラグプロフィールです"
   },
   "share": {
     "title": "レッドフラッグ・グリーンフラッグ診断",
@@ -181,5 +183,11 @@
   },
   "nav": {
     "back": "DopaBrain ホーム"
+  },
+  "related": {
+    "toxicTrait": "毒性特性",
+    "attachmentStyle": "愛着スタイル",
+    "loveLanguage": "愛の言語",
+    "eqTest": "EQテスト"
   }
 }

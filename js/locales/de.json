@@ -170,7 +170,9 @@
     "title": "Dein Flaggen-Bericht",
     "flagRatio": "Flaggen-Verhältnis",
     "dimensions": "Persönlichkeitsdimensionen",
-    "retake": "Test wiederholen"
+    "retake": "Test wiederholen",
+    "moreTests": "Weitere Tests entdecken",
+    "percentileStat": "Nur <strong>{percent}%</strong> der Teilnehmer teilen Ihr Flaggen-Profil"
   },
   "share": {
     "title": "Red Flag Green Flag Test",
@@ -181,5 +183,11 @@
   },
   "nav": {
     "back": "DopaBrain Startseite"
+  },
+  "related": {
+    "toxicTrait": "Toxische Eigenschaft",
+    "attachmentStyle": "Bindungsstil",
+    "loveLanguage": "Liebessprache",
+    "eqTest": "EQ-Test"
   }
 }

@@ -170,7 +170,9 @@
     "title": "आपकी फ्लैग रिपोर्ट",
     "flagRatio": "फ्लैग अनुपात",
     "dimensions": "व्यक्तित्व आयाम",
-    "retake": "दोबारा टेस्ट करें"
+    "retake": "दोबारा टेस्ट करें",
+    "moreTests": "और टेस्ट देखें",
+    "percentileStat": "केवल <strong>{percent}%</strong> प्रतिभागियों का आपसे मिलता-जुलता फ्लैग प्रोफ़ाइल है"
   },
   "share": {
     "title": "रेड फ्लैग ग्रीन फ्लैग टेस्ट",
@@ -181,5 +183,11 @@
   },
   "nav": {
     "back": "DopaBrain होम"
+  },
+  "related": {
+    "toxicTrait": "विषाक्त विशेषता",
+    "attachmentStyle": "अटैचमेंट स्टाइल",
+    "loveLanguage": "प्रेम भाषा",
+    "eqTest": "EQ टेस्ट"
   }
 }

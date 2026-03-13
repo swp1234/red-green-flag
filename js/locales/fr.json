@@ -170,7 +170,9 @@
     "title": "Ton Rapport de Drapeaux",
     "flagRatio": "Ratio de Drapeaux",
     "dimensions": "Dimensions de Personnalité",
-    "retake": "Refaire le test"
+    "retake": "Refaire le test",
+    "moreTests": "Découvrir plus de tests",
+    "percentileStat": "Seulement <strong>{percent}%</strong> des participants partagent votre profil de drapeaux"
   },
   "share": {
     "title": "Test Red Flag Green Flag",
@@ -181,5 +183,11 @@
   },
   "nav": {
     "back": "DopaBrain Accueil"
+  },
+  "related": {
+    "toxicTrait": "Trait toxique",
+    "attachmentStyle": "Style d'attachement",
+    "loveLanguage": "Langage amoureux",
+    "eqTest": "Test EQ"
   }
 }

@@ -170,7 +170,9 @@
     "title": "Bayrak Raporun",
     "flagRatio": "Bayrak Oranı",
     "dimensions": "Kişilik Boyutları",
-    "retake": "Tekrar Çöz"
+    "retake": "Tekrar Çöz",
+    "moreTests": "Daha fazla test keşfet",
+    "percentileStat": "Katılımcıların sadece <strong>{percent}%</strong>'i sizinle aynı bayrak profiline sahip"
   },
   "share": {
     "title": "Kırmızı Bayrak Yeşil Bayrak Testi",
@@ -181,5 +183,11 @@
   },
   "nav": {
     "back": "DopaBrain Ana Sayfa"
+  },
+  "related": {
+    "toxicTrait": "Toksik Özellik",
+    "attachmentStyle": "Bağlanma Stili",
+    "loveLanguage": "Aşk Dili",
+    "eqTest": "EQ Testi"
   }
 }

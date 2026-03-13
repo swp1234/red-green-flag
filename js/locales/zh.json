@@ -170,7 +170,9 @@
     "title": "你的旗帜报告",
     "flagRatio": "旗帜比例",
     "dimensions": "性格维度",
-    "retake": "重新测试"
+    "retake": "重新测试",
+    "moreTests": "探索更多测试",
+    "percentileStat": "只有<strong>{percent}%</strong>的参与者拥有您的旗帜档案"
   },
   "share": {
     "title": "红旗绿旗测试",
@@ -181,5 +183,11 @@
   },
   "nav": {
     "back": "DopaBrain 首页"
+  },
+  "related": {
+    "toxicTrait": "毒性特征",
+    "attachmentStyle": "依恋类型",
+    "loveLanguage": "爱的语言",
+    "eqTest": "EQ测试"
   }
 }

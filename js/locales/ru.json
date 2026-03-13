@@ -170,7 +170,9 @@
     "title": "Ваш Отчёт по Флагам",
     "flagRatio": "Соотношение Флагов",
     "dimensions": "Измерения Личности",
-    "retake": "Пройти ещё раз"
+    "retake": "Пройти ещё раз",
+    "moreTests": "Другие тесты",
+    "percentileStat": "Только <strong>{percent}%</strong> участников имеют ваш профиль флагов"
   },
   "share": {
     "title": "Тест Красный и Зелёный Флаг",
@@ -181,5 +183,11 @@
   },
   "nav": {
     "back": "DopaBrain Главная"
+  },
+  "related": {
+    "toxicTrait": "Токсичная черта",
+    "attachmentStyle": "Тип привязанности",
+    "loveLanguage": "Язык любви",
+    "eqTest": "EQ Тест"
   }
 }

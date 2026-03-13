@@ -170,7 +170,9 @@
     "title": "Laporan Benderamu",
     "flagRatio": "Rasio Bendera",
     "dimensions": "Dimensi Kepribadian",
-    "retake": "Tes Ulang"
+    "retake": "Tes Ulang",
+    "moreTests": "Jelajahi tes lainnya",
+    "percentileStat": "Hanya <strong>{percent}%</strong> peserta yang memiliki profil bendera seperti Anda"
   },
   "share": {
     "title": "Tes Red Flag Green Flag",
@@ -181,5 +183,11 @@
   },
   "nav": {
     "back": "DopaBrain Beranda"
+  },
+  "related": {
+    "toxicTrait": "Sifat Toksik",
+    "attachmentStyle": "Gaya Kelekatan",
+    "loveLanguage": "Bahasa Cinta",
+    "eqTest": "Tes EQ"
   }
 }

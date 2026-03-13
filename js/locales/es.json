@@ -170,7 +170,9 @@
     "title": "Tu Informe de Banderas",
     "flagRatio": "Proporción de Banderas",
     "dimensions": "Dimensiones de Personalidad",
-    "retake": "Repetir Test"
+    "retake": "Repetir Test",
+    "moreTests": "Explorar más tests",
+    "percentileStat": "Solo el <strong>{percent}%</strong> de los participantes comparte tu perfil de banderas"
   },
   "share": {
     "title": "Test de Bandera Roja y Verde",
@@ -181,5 +183,11 @@
   },
   "nav": {
     "back": "DopaBrain Inicio"
+  },
+  "related": {
+    "toxicTrait": "Rasgo tóxico",
+    "attachmentStyle": "Estilo de apego",
+    "loveLanguage": "Lenguaje del amor",
+    "eqTest": "Test EQ"
   }
 }
