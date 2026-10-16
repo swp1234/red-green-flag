@@ -188,6 +188,7 @@
     "toxicTrait": "Токсичная черта",
     "attachmentStyle": "Тип привязанности",
     "loveLanguage": "Язык любви",
-    "eqTest": "EQ Тест"
+    "eqTest": "EQ Тест",
+    "loveFrequency": "Частота любви"
   }
 }
