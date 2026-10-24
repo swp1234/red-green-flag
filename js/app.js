@@ -276,14 +276,6 @@
             });
         }
 
-        // Percentile stat
-        const pStat = $('#percentile-stat');
-        if (pStat) {
-            const pctVal = Math.floor(Math.random() * 15) + 8;
-            const template = t('result.percentileStat') || 'Only <strong>{percent}%</strong> of participants share your flag profile';
-            pStat.innerHTML = template.replace('{percent}', pctVal);
-        }
-
         // Store for sharing
         window._flagResult = { red, yellow, green, archetypeKey };
     }
