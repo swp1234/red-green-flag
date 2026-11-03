@@ -345,9 +345,40 @@
         select.value = appI18n.getCurrentLanguage();
         select.addEventListener('change', async (e) => {
             await appI18n.setLanguage(e.target.value);
+            initRelatedFunnels();
             // Re-render current screen content if on question screen
             if (currentQuestion < QUESTIONS.length && document.querySelector('#screen-question.active')) {
                 showQuestion();
+            }
+        });
+    }
+
+    // ===== Funnel Bridge =====
+    function initRelatedFunnels() {
+        const urlParams = new URLSearchParams(window.location.search);
+        const lang = urlParams.get('lang') || (appI18n ? appI18n.getCurrentLanguage() : 'ko') || 'ko';
+        const base = (window.location.origin && window.location.origin !== 'null') ? window.location.origin : 'https://dopabrain.com';
+        document.querySelectorAll('.related-grid a').forEach(link => {
+            const baseHref = link.getAttribute('data-base-href') || link.getAttribute('href');
+            if (!baseHref || baseHref.startsWith('http') || baseHref.startsWith('#')) return;
+            try {
+                const url = new URL(baseHref, base);
+                url.searchParams.set('lang', lang);
+                if (!url.searchParams.has('source')) url.searchParams.set('source', 'red_green_flag_result');
+                link.setAttribute('href', url.pathname + url.search);
+            } catch(e) {}
+            if (!link.dataset.trackedCta) {
+                link.dataset.trackedCta = 'true';
+                link.addEventListener('click', () => {
+                    if (typeof gtag === 'function') {
+                        gtag('event', 'content_cta_click', {
+                            cta_surface: 'red_green_flag_related',
+                            destination: link.getAttribute('href'),
+                            source: 'red_green_flag',
+                            lang: lang
+                        });
+                    }
+                });
             }
         });
     }
@@ -365,6 +396,7 @@
 
         initTheme();
         initLanguageSelector();
+        initRelatedFunnels();
 
         // Event listeners
         $('#btn-start').addEventListener('click', () => {
