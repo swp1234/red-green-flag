@@ -190,5 +190,30 @@
     "loveLanguage": "Bahasa Cinta",
     "eqTest": "Tes EQ",
     "loveFrequency": "Frekuensi Cinta"
+  },
+  "about": {
+    "summaryTitle": "Panduan Red Flag & Green Flag: Kesehatan Hubungan & FAQ",
+    "scienceDesc": "Psikologi hubungan mengamati isyarat perilaku yang menentukan keharmonisan relasi. Berdasarkan penelitian John Gottman dan teori batasan diri, tes ini membandingkan kebiasaan sehat dengan pola pertahanan destruktif.",
+    "boundary": "Batasan Mawas Diri: Kuis ini adalah sarana edukasi untuk refleksi gaya interaksi dan bukan pengganti konseling pernikahan.",
+    "dimensionsHeading": "Empat Dimensi Kunci Hubungan",
+    "dimComm": "Komunikasi:",
+    "descComm": "Penyelesaian masalah secara terbuka dan tenang versus diam membisu (silent treatment).",
+    "dimBound": "Batasan Diri:",
+    "descBound": "Menghargai privasi dan otonomi versus pengintaian atau kecemburuan buta.",
+    "dimMaturity": "Kematangan Emosi:",
+    "descMaturity": "Kemampuan meredakan konflik versus reaksi impulsif menyalahkan orang lain.",
+    "dimLoyalty": "Kesetiaan:",
+    "descLoyalty": "Integritas dan konsistensi versus penghianatan atau perhitungan untung-rugi.",
+    "faqTitle": "Pertanyaan yang Sering Diajukan (FAQ)",
+    "faq1Q": "Q: Apa makna psikologis red flag dan green flag?",
+    "faq1A": "A: Red flag adalah sinyal bahaya kebiasaan defensif; green flag adalah tanda keterikatan yang aman dan saling menghargai.",
+    "faq2Q": "Q: Bisakah mengubah kebiasaan red flag?",
+    "faq2A": "A: Tentu. Dengan melatih kesadaran diri dan komunikasi asertif, sifat green flag dapat ditingkatkan.",
+    "faq3Q": "Q: Apakah ini tes kecocokan klinis?",
+    "faq3A": "A: Bukan. Ini adalah panduan edukatif untuk memahami pola interaksi.",
+    "faq4Q": "Q: Apakah jawaban saya disimpan?",
+    "faq4A": "A: Tidak pernah. Seluruh pemrosesan berjalan di peramban Anda.",
+    "reviewDate": "Tinjauan Editorial: November 2026",
+    "reviewTeam": "Tim Kesehatan Relasi DopaBrain"
   }
 }

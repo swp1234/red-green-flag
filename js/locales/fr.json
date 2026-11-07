@@ -190,5 +190,30 @@
     "loveLanguage": "Langage amoureux",
     "eqTest": "Test EQ",
     "loveFrequency": "Fréquence Amoureuse"
+  },
+  "about": {
+    "summaryTitle": "Guide des Drapeaux Rouges et Verts: Santé du Couple & FAQ",
+    "scienceDesc": "La psychologie relationnelle analyse les signaux prédictifs de la durée d'un couple. Inspiré des travaux de John Gottman et de la théorie des limites, ce test compare les réactions constructives aux mécanismes défensifs.",
+    "boundary": "Introspection: Ce questionnaire éducatif est une aide à la réflexion personnelle et ne remplace pas une thérapie conjugale.",
+    "dimensionsHeading": "Quatre Dimensions Clés du Lien",
+    "dimComm": "Communication:",
+    "descComm": "Résolution calme et directe plutôt que fuite passive-agressive ou silence punitif.",
+    "dimBound": "Limites:",
+    "descBound": "Respect de l'intimité et de l'autonomie plutôt que surveillance intrusive.",
+    "dimMaturity": "Maturité Émotionnelle:",
+    "descMaturity": "Capacité d'apaisement face au conflit plutôt qu'emportements blessants.",
+    "dimLoyalty": "Loyauté:",
+    "descLoyalty": "Constance et franchise plutôt que trahison ou calcul d'intérêt.",
+    "faqTitle": "Foire Aux Questions (FAQ)",
+    "faq1Q": "Q: Quelle est la signification des drapeaux?",
+    "faq1A": "A: Les drapeaux rouges signalent des défenses nuisibles; les verts révèlent un attachement sécurisant.",
+    "faq2Q": "Q: Peut-on transformer ses réflexes relationnels?",
+    "faq2A": "A: Oui, par la communication bienveillante et la clarification de ses besoins émotionnels.",
+    "faq3Q": "Q: Est-ce une expertise médicale?",
+    "faq3A": "A: Non, c'est un support d'auto-évaluation relationnelle.",
+    "faq4Q": "Q: Mes réponses sont-elles enregistrées?",
+    "faq4A": "A: Jamais. Tout s'exécute localement dans votre navigateur.",
+    "reviewDate": "Validation éditoriale: novembre 2026",
+    "reviewTeam": "Équipe Santé Relationnelle DopaBrain"
   }
 }

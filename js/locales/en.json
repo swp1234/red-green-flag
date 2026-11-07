@@ -190,5 +190,30 @@
     "loveLanguage": "Love Language",
     "eqTest": "EQ Test",
     "loveFrequency": "Love Frequency"
+  },
+  "about": {
+    "summaryTitle": "About Flag Ratios: Relational Health & FAQ",
+    "scienceDesc": "Relationship science highlights behavioral cues that predict partnership longevity. Drawing from John Gottman's Sound Relationship House research and boundary theory (Cloud & Townsend), flag ratios contrast healthy collaborative engagement with defensive, retaliatory habits across dating, friendships, and work.",
+    "boundary": "Self-Reflection Boundary: This quiz is an educational tool for exploring interpersonal communication tendencies. It is not a clinical assessment or relationship therapy substitute.",
+    "dimensionsHeading": "Four Key Relationship Dimensions",
+    "dimComm": "Communication:",
+    "descComm": "Direct, calm problem-solving versus passive-aggressive withdrawal or silent treatment.",
+    "dimBound": "Boundaries:",
+    "descBound": "Respecting privacy and autonomy versus intrusive snooping and enmeshment.",
+    "dimMaturity": "Emotional Maturity:",
+    "descMaturity": "Self-soothing and conflict de-escalation versus reactive blame and vindictiveness.",
+    "dimLoyalty": "Loyalty:",
+    "descLoyalty": "Steadfast reliability and honesty versus opportunistic betrayal or scorekeeping.",
+    "faqTitle": "Frequently Asked Questions",
+    "faq1Q": "Q: What is the psychological meaning of red and green flags?",
+    "faq1A": "A: Red flags indicate defensive mechanisms like avoidance or manipulation; green flags demonstrate emotional regulation, empathy, and clear mutual boundaries.",
+    "faq2Q": "Q: Can someone change their relationship flag patterns?",
+    "faq2A": "A: Yes! Red flag reactions are often learned survival habits. Cultivating self-awareness, active listening, and healthy boundaries steadily fosters green flag responses.",
+    "faq3Q": "Q: Is this test a clinical compatibility diagnosis?",
+    "faq3A": "A: No. It is an educational self-reflection prompt designed to explore relational habits. It does not replace couples therapy or psychiatric consultation.",
+    "faq4Q": "Q: Are my quiz answers or results saved?",
+    "faq4A": "A: Never. All calculations run strictly inside your browser. No answers, scores, or flag ratios are ever transmitted to or stored on external servers.",
+    "reviewDate": "Editorial Review: November 2026",
+    "reviewTeam": "DopaBrain Relational Health Team"
   }
 }

@@ -190,5 +190,30 @@
     "loveLanguage": "Lenguaje del amor",
     "eqTest": "Test EQ",
     "loveFrequency": "Frecuencia del Amor"
+  },
+  "about": {
+    "summaryTitle": "Guía de Banderas Rojas y Verdes: Salud Relacional y FAQ",
+    "scienceDesc": "La ciencia vincular estudia las señales de comportamiento que predicen el éxito de una relación. Apoyándose en el modelo de John Gottman y la teoría de límites, este test evalúa hábitos de apego y respeto mutuo.",
+    "boundary": "Aviso reflexivo: Este cuestionario es un ejercicio educativo de introspección relacional y no reemplaza la terapia de pareja.",
+    "dimensionsHeading": "Cuatro Dimensiones Relacionales Clave",
+    "dimComm": "Comunicación:",
+    "descComm": "Resolución directa y respetuosa frente a la evasión pasivo-agresiva o la ley del hielo.",
+    "dimBound": "Límites:",
+    "descBound": "Respeto por el espacio y privacidad ajena versus intromisión o celos.",
+    "dimMaturity": "Madurez Emocional:",
+    "descMaturity": "Capacidad de apaciguar el conflicto frente a reacciones impulsivas o rencor.",
+    "dimLoyalty": "Lealtad:",
+    "descLoyalty": "Fiabilidad constante y honestidad versus oportunismo o deslealtad.",
+    "faqTitle": "Preguntas Frecuentes (FAQ)",
+    "faq1Q": "Q: ¿Qué representan las banderas rojas y verdes?",
+    "faq1A": "A: Las rojas señalan defensas destructivas; las verdes reflejan madurez y apego seguro.",
+    "faq2Q": "Q: ¿Se pueden cambiar estos patrones relacionales?",
+    "faq2A": "A: Sí. Mediante la comunicación asertiva y el establecimiento de límites saludables.",
+    "faq3Q": "Q: ¿Es un diagnóstico clínico?",
+    "faq3A": "A: No. Es un recurso educativo para reflexionar sobre cómo nos relacionamos.",
+    "faq4Q": "Q: ¿Se transmiten mis datos?",
+    "faq4A": "A: En absoluto. Todo el cálculo opera localmente en su dispositivo.",
+    "reviewDate": "Revisión editorial: noviembre de 2026",
+    "reviewTeam": "Equipo de Salud Relacional DopaBrain"
   }
 }

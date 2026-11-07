@@ -190,5 +190,30 @@
     "loveLanguage": "Linguagem do amor",
     "eqTest": "Teste EQ",
     "loveFrequency": "Frequência do Amor"
+  },
+  "about": {
+    "summaryTitle": "Guia de Bandeiras Vermelhas e Verdes: Relações & FAQ",
+    "scienceDesc": "A psicologia relacional destaca atitudes que definem a harmonia entre parceiros. Fundamentado nos estudos de John Gottman e na teoria dos limites, este teste avalia posturas seguras versus mecanismos defensivos.",
+    "boundary": "Autorreflexão: Trata-se de uma ferramenta educativa de conscientização e não substitui aconselhamento conjugal.",
+    "dimensionsHeading": "Quatro Dimensões do Vínculo",
+    "dimComm": "Comunicação:",
+    "descComm": "Diálogo franco e sereno versus silêncio punitivo ou agressividade velada.",
+    "dimBound": "Limites:",
+    "descBound": "Respeito ao espaço pessoal do outro versus invasão de privacidade e controle.",
+    "dimMaturity": "Maturidade Emocional:",
+    "descMaturity": "Capacidade de acalmar ânimos versus reatividade agressiva e desmedida.",
+    "dimLoyalty": "Lealdade:",
+    "descLoyalty": "Fidelidade e coerência versus deslealdade ou chantagens emocionais.",
+    "faqTitle": "Perguntas Frequentes (FAQ)",
+    "faq1Q": "Q: O que significam Red e Green Flags?",
+    "faq1A": "A: Red flags sinalizam posturas abusivas ou evasivas; green flags indicam maturidade e afeto seguro.",
+    "faq2Q": "Q: É possível transformar bandeiras vermelhas em verdes?",
+    "faq2A": "A: Sim. Desenvolver escuta ativa e limites saudáveis fortalece atitudes positivas.",
+    "faq3Q": "Q: O teste é um diagnóstico formal?",
+    "faq3A": "A: Não. É uma experiência reflexiva sobre costumes interpessoais.",
+    "faq4Q": "Q: As escolhas ficam guardadas?",
+    "faq4A": "A: De forma alguma. Os cálculos são processados localmente no aparelho.",
+    "reviewDate": "Revisão editorial: novembro de 2026",
+    "reviewTeam": "Equipe de Saúde Relacional DopaBrain"
   }
 }

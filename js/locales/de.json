@@ -190,5 +190,30 @@
     "loveLanguage": "Liebessprache",
     "eqTest": "EQ-Test",
     "loveFrequency": "Liebesfrequenz"
+  },
+  "about": {
+    "summaryTitle": "Leitfaden für Beziehungs-Flags: Beziehungshygiene & FAQ",
+    "scienceDesc": "Beziehungsforschung identifiziert Verhaltensweisen, die über Stabilität entscheiden. Basierend auf John Gottmans Erkenntnissen und Grenzkonzepten vergleicht dieser Test kooperatives Verhalten mit destruktiven Abwehrmustern.",
+    "boundary": "Pädagogischer Rahmen: Dieses Tool dient der Selbsterkenntnis im Alltag und ersetzt keine Paartherapie oder klinische Diagnose.",
+    "dimensionsHeading": "Vier Grundlegende Beziehungsdimensionen",
+    "dimComm": "Kommunikation:",
+    "descComm": "Direkte Klärung auf Augenhöhe statt eisiges Schweigen oder passive Aggression.",
+    "dimBound": "Grenzen:",
+    "descBound": "Achtung der Privatsphäre und Selbstbestimmung statt übergriffiger Kontrolle.",
+    "dimMaturity": "Emotionale Reife:",
+    "descMaturity": "Deeskalation und Impulskontrolle statt destruktiver Schuldzuweisungen.",
+    "dimLoyalty": "Loyalität:",
+    "descLoyalty": "Verlässlichkeit und Aufrichtigkeit statt taktischer Manöver.",
+    "faqTitle": "Häufig gestellte Fragen (FAQ)",
+    "faq1Q": "Q: Was bedeuten Red Flags und Green Flags?",
+    "faq1A": "A: Red Flags warnen vor toxischen Abwehrmustern; Green Flags zeigen sichere Bindung und gegenseitigen Respekt.",
+    "faq2Q": "Q: Kann man eigene Muster verändern?",
+    "faq2A": "A: Ja. Achtsamkeit und gewaltfreie Kommunikation stärken das Green-Flag-Verhalten spürbar.",
+    "faq3Q": "Q: Ist dies ein klinischer Kompatibilitätstest?",
+    "faq3A": "A: Nein. Es ist ein edukativer Spiegel des eigenen Beziehungsverhaltens.",
+    "faq4Q": "Q: Werden Antworten gespeichert?",
+    "faq4A": "A: Niemals. Die Auswertung erfolgt vollkommen lokal im Browser.",
+    "reviewDate": "Redaktionelle Prüfung: November 2026",
+    "reviewTeam": "DopaBrain Beziehungsforschungs-Team"
   }
 }

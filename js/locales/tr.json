@@ -190,5 +190,30 @@
     "loveLanguage": "Aşk Dili",
     "eqTest": "EQ Testi",
     "loveFrequency": "Aşk Frekansı"
+  },
+  "about": {
+    "summaryTitle": "Kırmızı ve Yeşil Bayrak Rehberi: İlişki Sağlığı & SSS",
+    "scienceDesc": "İlişki bilimi, birlikteliğin ömrünü belirleyen davranışsal ipuçlarını inceler. John Gottman'ın çalışmaları ve sınır teorisine dayanan bu test, yapıcı yaklaşımlar ile savunmacı alışkanlıkları kıyaslar.",
+    "boundary": "Öz-Farkındalık Sınırı: Bu test iletişim eğilimlerini keşfetmeye dönük eğitici bir araçtır, çift terapisi yerine geçmez.",
+    "dimensionsHeading": "Dört Temel İlişki Boyutu",
+    "dimComm": "İletişim:",
+    "descComm": "Pasif agresif kaçış veya küsme yerine doğrudan ve sakin çözüm arayışı.",
+    "dimBound": "Sınırlar:",
+    "descBound": "Kişisel alana saygı gösterme yerine telefon karıştırma veya aşırı kontrol.",
+    "dimMaturity": "Duygusal Olgunluk:",
+    "descMaturity": "Öfke patlamaları yerine çatışmayı yatıştırma ve empati kurma becerisi.",
+    "dimLoyalty": "Bağlılık ve Sadakat:",
+    "descLoyalty": "Hesapçı intikamcılık yerine dürüst ve tutarlı güven ortamı.",
+    "faqTitle": "Sıkça Sorulan Sorular (SSS)",
+    "faq1Q": "Q: Kırmızı ve yeşil bayrakların anlamı nedir?",
+    "faq1A": "A: Kırmızı bayraklar yıpratıcı savunma mekanizmalarını; yeşil bayraklar ise güvenli ve olgun sevgiyi temsil eder.",
+    "faq2Q": "Q: Kişi kendi kırmızı bayraklarını değiştirebilir mi?",
+    "faq2A": "A: Evet! Sağlıklı sınırlar koyarak ve empati geliştirerek yeşil bayrak oranınızı artırabilirsiniz.",
+    "faq3Q": "Q: Bu tıbbi bir uyum testi midir?",
+    "faq3A": "A: Hayır. Bireysel iletişim tarzını gözden geçirmeyi amaçlayan eğitici bir öz-değerlendirmedir.",
+    "faq4Q": "Q: Yanıtlarım bir yere kaydediliyor mu?",
+    "faq4A": "A: Asla. Tüm süreç yalnızca tarayıcınızda yerel olarak çalışır.",
+    "reviewDate": "Editör İncelemesi: Kasım 2026",
+    "reviewTeam": "DopaBrain İlişki Sağlığı Ekibi"
   }
 }
