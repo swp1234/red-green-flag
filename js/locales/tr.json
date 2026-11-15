@@ -171,15 +171,15 @@
     "flagRatio": "Bayrak Oranı",
     "dimensions": "Kişilik Boyutları",
     "retake": "Tekrar Çöz",
-    "moreTests": "Daha fazla test keşfet",
-    "percentileStat": "Katılımcıların sadece <strong>{percent}%</strong>'i sizinle aynı bayrak profiline sahip"
+    "moreTests": "Daha fazla test keşfet"
   },
   "share": {
     "title": "Kırmızı Bayrak Yeşil Bayrak Testi",
     "text": "Ben {green}% Yeşil Bayrak'ım! 🟢 Tipim: {archetype}",
     "copied": "Kopyalandı!",
     "twitter": "Twitter'da Paylaş",
-    "copyUrl": "Linki Kopyala"
+    "copyUrl": "Linki Kopyala",
+    "downloadCard": "Hikaye Kartını Kaydet"
   },
   "nav": {
     "back": "DopaBrain Ana Sayfa"
@@ -189,7 +189,10 @@
     "attachmentStyle": "Bağlanma Stili",
     "loveLanguage": "Aşk Dili",
     "eqTest": "EQ Testi",
-    "loveFrequency": "Aşk Frekansı"
+    "loveFrequency": "Aşk Frekansı",
+    "stressCheck": "Stres Kontrolü",
+    "futureSelf": "Gelecekteki Sen",
+    "hspTest": "HSP Testi"
   },
   "about": {
     "summaryTitle": "Kırmızı ve Yeşil Bayrak Rehberi: İlişki Sağlığı & SSS",
@@ -215,5 +218,14 @@
     "faq4A": "A: Asla. Tüm süreç yalnızca tarayıcınızda yerel olarak çalışır.",
     "reviewDate": "Editör İncelemesi: Kasım 2026",
     "reviewTeam": "DopaBrain İlişki Sağlığı Ekibi"
+  },
+  "curated": {
+    "badge": "İLİŞKİ PSİKOLOJİSİ OKUMALARI",
+    "title": "Sınırlar ve İletişimi Güçlendirin",
+    "book1Title": "Mutlu Evliliklerin 7 Sırrı",
+    "book1Desc": "John Gottman • Güven inşası ve yapıcı iletişim üzerine araştırmalar.",
+    "book2Title": "Sınırlar (Boundaries)",
+    "book2Desc": "Henry Cloud & John Townsend • İlişkilerde net ve sağlıklı sınırlar koyma rehberi.",
+    "readPill": "Kitabı Gör ↗"
   }
 }

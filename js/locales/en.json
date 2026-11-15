@@ -171,15 +171,15 @@
     "flagRatio": "Flag Ratio",
     "dimensions": "Personality Dimensions",
     "retake": "Retake Test",
-    "moreTests": "Explore More Tests",
-    "percentileStat": "Only <strong>{percent}%</strong> of participants share your flag profile"
+    "moreTests": "Explore More Tests"
   },
   "share": {
     "title": "Red Flag Green Flag Test",
     "text": "I'm {green}% Green Flag! 🟢 My type: {archetype}",
     "copied": "Copied!",
     "twitter": "Share on Twitter",
-    "copyUrl": "Copy Link"
+    "copyUrl": "Copy Link",
+    "downloadCard": "Save Story Card"
   },
   "nav": {
     "back": "DopaBrain Home"
@@ -189,7 +189,10 @@
     "attachmentStyle": "Attachment Style",
     "loveLanguage": "Love Language",
     "eqTest": "EQ Test",
-    "loveFrequency": "Love Frequency"
+    "loveFrequency": "Love Frequency",
+    "stressCheck": "Stress Check",
+    "futureSelf": "Future Self",
+    "hspTest": "HSP Test"
   },
   "about": {
     "summaryTitle": "About Flag Ratios: Relational Health & FAQ",
@@ -215,5 +218,14 @@
     "faq4A": "A: Never. All calculations run strictly inside your browser. No answers, scores, or flag ratios are ever transmitted to or stored on external servers.",
     "reviewDate": "Editorial Review: November 2026",
     "reviewTeam": "DopaBrain Relational Health Team"
+  },
+  "curated": {
+    "badge": "RELATIONAL HEALTH READING",
+    "title": "Deepen Boundaries & Communication",
+    "book1Title": "The Seven Principles for Making Marriage Work",
+    "book1Desc": "John Gottman • Research-backed repair conversations and emotional trust habits.",
+    "book2Title": "Boundaries",
+    "book2Desc": "Henry Cloud & John Townsend • Saying yes and no cleanly in dating and life.",
+    "readPill": "View Book ↗"
   }
 }

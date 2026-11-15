@@ -171,15 +171,15 @@
     "flagRatio": "Proporção de Bandeiras",
     "dimensions": "Dimensões de Personalidade",
     "retake": "Refazer Teste",
-    "moreTests": "Explorar mais testes",
-    "percentileStat": "Apenas <strong>{percent}%</strong> dos participantes compartilham seu perfil de bandeiras"
+    "moreTests": "Explorar mais testes"
   },
   "share": {
     "title": "Teste Bandeira Vermelha e Verde",
     "text": "Sou {green}% Bandeira Verde! 🟢 Meu tipo: {archetype}",
     "copied": "Copiado!",
     "twitter": "Compartilhar no Twitter",
-    "copyUrl": "Copiar Link"
+    "copyUrl": "Copiar Link",
+    "downloadCard": "Salvar Card"
   },
   "nav": {
     "back": "DopaBrain Início"
@@ -189,7 +189,10 @@
     "attachmentStyle": "Estilo de apego",
     "loveLanguage": "Linguagem do amor",
     "eqTest": "Teste EQ",
-    "loveFrequency": "Frequência do Amor"
+    "loveFrequency": "Frequência do Amor",
+    "stressCheck": "Teste de Estresse",
+    "futureSelf": "Eu do Futuro",
+    "hspTest": "Teste HSP"
   },
   "about": {
     "summaryTitle": "Guia de Bandeiras Vermelhas e Verdes: Relações & FAQ",
@@ -215,5 +218,14 @@
     "faq4A": "A: De forma alguma. Os cálculos são processados localmente no aparelho.",
     "reviewDate": "Revisão editorial: novembro de 2026",
     "reviewTeam": "Equipe de Saúde Relacional DopaBrain"
+  },
+  "curated": {
+    "badge": "LEITURAS DE SAÚDE RELACIONAL",
+    "title": "Aprofunde Limites e Comunicação",
+    "book1Title": "Os 7 Princípios para o Casamento Dar Certo",
+    "book1Desc": "John Gottman • Conversas de reparo e hábitos de confiança emocional.",
+    "book2Title": "Limites (Boundaries)",
+    "book2Desc": "Henry Cloud & John Townsend • Quando dizer sim e não nos relacionamentos.",
+    "readPill": "Ver Livro ↗"
   }
 }

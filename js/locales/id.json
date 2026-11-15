@@ -171,15 +171,15 @@
     "flagRatio": "Rasio Bendera",
     "dimensions": "Dimensi Kepribadian",
     "retake": "Tes Ulang",
-    "moreTests": "Jelajahi tes lainnya",
-    "percentileStat": "Hanya <strong>{percent}%</strong> peserta yang memiliki profil bendera seperti Anda"
+    "moreTests": "Jelajahi tes lainnya"
   },
   "share": {
     "title": "Tes Red Flag Green Flag",
     "text": "Aku {green}% Green Flag! 🟢 Tipeku: {archetype}",
     "copied": "Tersalin!",
     "twitter": "Bagikan di Twitter",
-    "copyUrl": "Salin Link"
+    "copyUrl": "Salin Link",
+    "downloadCard": "Simpan Kartu Cerita"
   },
   "nav": {
     "back": "DopaBrain Beranda"
@@ -189,7 +189,10 @@
     "attachmentStyle": "Gaya Kelekatan",
     "loveLanguage": "Bahasa Cinta",
     "eqTest": "Tes EQ",
-    "loveFrequency": "Frekuensi Cinta"
+    "loveFrequency": "Frekuensi Cinta",
+    "stressCheck": "Cek Stres",
+    "futureSelf": "Diri Masa Depan",
+    "hspTest": "Tes HSP"
   },
   "about": {
     "summaryTitle": "Panduan Red Flag & Green Flag: Kesehatan Hubungan & FAQ",
@@ -215,5 +218,14 @@
     "faq4A": "A: Tidak pernah. Seluruh pemrosesan berjalan di peramban Anda.",
     "reviewDate": "Tinjauan Editorial: November 2026",
     "reviewTeam": "Tim Kesehatan Relasi DopaBrain"
+  },
+  "curated": {
+    "badge": "BACAAN KESEHATAN RELASI",
+    "title": "Perdalam Batasan & Komunikasi",
+    "book1Title": "The Seven Principles for Making Marriage Work",
+    "book1Desc": "John Gottman • Kebiasaan perbaikan konflik dan kepercayaan berbasis riset.",
+    "book2Title": "Boundaries",
+    "book2Desc": "Henry Cloud & John Townsend • Menetapkan batasan sehat dalam hubungan.",
+    "readPill": "Lihat Buku ↗"
   }
 }

@@ -171,15 +171,15 @@
     "flagRatio": "旗帜比例",
     "dimensions": "性格维度",
     "retake": "重新测试",
-    "moreTests": "探索更多测试",
-    "percentileStat": "只有<strong>{percent}%</strong>的参与者拥有您的旗帜档案"
+    "moreTests": "探索更多测试"
   },
   "share": {
     "title": "红旗绿旗测试",
     "text": "我是{green}%绿旗！🟢 类型：{archetype}",
     "copied": "已复制！",
     "twitter": "分享到Twitter",
-    "copyUrl": "复制链接"
+    "copyUrl": "复制链接",
+    "downloadCard": "保存分享图卡"
   },
   "nav": {
     "back": "DopaBrain 首页"
@@ -189,7 +189,10 @@
     "attachmentStyle": "依恋类型",
     "loveLanguage": "爱的语言",
     "eqTest": "EQ测试",
-    "loveFrequency": "爱情频率测试"
+    "loveFrequency": "爱情频率测试",
+    "stressCheck": "压力检测",
+    "futureSelf": "未来的自己测试",
+    "hspTest": "HSP高敏测试"
   },
   "about": {
     "summaryTitle": "关系红绿灯指南：相处健康度与常见问题 (FAQ)",
@@ -215,5 +218,14 @@
     "faq4A": "A: 绝对不会。全部运算均在本地浏览器中即时运行，绝不上载至外部服务器。",
     "reviewDate": "编辑审核：2026年11月",
     "reviewTeam": "DopaBrain关系健康研究团队"
+  },
+  "curated": {
+    "badge": "关系心理学推荐书单",
+    "title": "进一步提升边界感与沟通力",
+    "book1Title": "幸福的婚姻（七大原则）",
+    "book1Desc": "约翰·戈特曼 • 基于实证研究的关系修复对话与信任习惯。",
+    "book2Title": "过犹不及（心理界限）",
+    "book2Desc": "亨利·克劳德 • 在亲密关系与生活中清晰说“是”与“不”。",
+    "readPill": "查看图书 ↗"
   }
 }

@@ -171,15 +171,15 @@
     "flagRatio": "Proporción de Banderas",
     "dimensions": "Dimensiones de Personalidad",
     "retake": "Repetir Test",
-    "moreTests": "Explorar más tests",
-    "percentileStat": "Solo el <strong>{percent}%</strong> de los participantes comparte tu perfil de banderas"
+    "moreTests": "Explorar más tests"
   },
   "share": {
     "title": "Test de Bandera Roja y Verde",
     "text": "¡Soy {green}% Bandera Verde! 🟢 Mi tipo: {archetype}",
     "copied": "¡Copiado!",
     "twitter": "Compartir en Twitter",
-    "copyUrl": "Copiar Enlace"
+    "copyUrl": "Copiar Enlace",
+    "downloadCard": "Guardar Tarjeta"
   },
   "nav": {
     "back": "DopaBrain Inicio"
@@ -189,7 +189,10 @@
     "attachmentStyle": "Estilo de apego",
     "loveLanguage": "Lenguaje del amor",
     "eqTest": "Test EQ",
-    "loveFrequency": "Frecuencia del Amor"
+    "loveFrequency": "Frecuencia del Amor",
+    "stressCheck": "Test de Estrés",
+    "futureSelf": "Yo Futuro",
+    "hspTest": "Test PAS (HSP)"
   },
   "about": {
     "summaryTitle": "Guía de Banderas Rojas y Verdes: Salud Relacional y FAQ",
@@ -215,5 +218,14 @@
     "faq4A": "A: En absoluto. Todo el cálculo opera localmente en su dispositivo.",
     "reviewDate": "Revisión editorial: noviembre de 2026",
     "reviewTeam": "Equipo de Salud Relacional DopaBrain"
+  },
+  "curated": {
+    "badge": "LECTURAS DE SALUD RELACIONAL",
+    "title": "Profundiza en Límites y Comunicación",
+    "book1Title": "Siete reglas de oro para vivir en pareja",
+    "book1Desc": "John Gottman • Hábitos de reparación emocional y confianza basados en investigación.",
+    "book2Title": "Límites (Boundaries)",
+    "book2Desc": "Henry Cloud & John Townsend • Cómo decir sí y no con claridad afectiva.",
+    "readPill": "Ver Libro ↗"
   }
 }

@@ -266,54 +266,196 @@
             }
         });
 
-        // GA4 event
+        // GA4 event (clean category telemetry, no raw percentage/score leakage)
         if (typeof gtag === 'function') {
             gtag('event', 'quiz_complete', {
                 event_category: 'red_green_flag',
-                event_label: archetypeKey,
-                green_pct: green,
-                red_pct: red
+                event_label: archetypeKey
+            });
+            gtag('event', 'test_complete', {
+                app_name: 'red-green-flag',
+                result_type: archetypeKey
             });
         }
 
-        // Store for sharing
-        window._flagResult = { red, yellow, green, archetypeKey };
+        // Store for sharing & language re-render
+        window._flagResult = { red, yellow, green, dims, archetypeKey };
+        const lang = appI18n ? appI18n.getCurrentLanguage() : 'ko';
+        updateCuratedResources(lang);
     }
 
-    // ===== Share =====
+    // ===== Share & Story Card =====
+    function getShareUrl() {
+        const lang = appI18n ? appI18n.getCurrentLanguage() : 'ko';
+        const url = new URL('https://dopabrain.com/red-green-flag/');
+        url.searchParams.set('lang', lang);
+        url.searchParams.set('utm_source', 'share');
+        return url.toString();
+    }
+
     function shareTwitter() {
         const r = window._flagResult;
         if (!r) return;
         const archTitle = t(`archetypes.${r.archetypeKey}.title`);
         let text = t('share.text');
         text = text.replace('{green}', r.green).replace('{archetype}', archTitle);
-        const url = 'https://dopabrain.com/red-green-flag/';
+        const url = getShareUrl();
         const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`;
+        if (typeof gtag === 'function') {
+            gtag('event', 'share', {
+                app_name: 'red-green-flag',
+                share_channel: 'twitter',
+                result_type: r.archetypeKey
+            });
+        }
         window.open(twitterUrl, '_blank', 'noopener');
     }
 
     function copyLink() {
-        const url = 'https://dopabrain.com/red-green-flag/';
-        if (navigator.clipboard && navigator.clipboard.writeText) {
-            navigator.clipboard.writeText(url).then(() => {
-                const btn = $('#btn-copy');
-                const original = btn.textContent;
-                btn.textContent = t('share.copied');
-                setTimeout(() => { btn.textContent = original; }, 2000);
+        const url = getShareUrl();
+        const done = () => {
+            const btn = $('#btn-copy');
+            const original = btn.textContent;
+            btn.textContent = t('share.copied');
+            setTimeout(() => { btn.textContent = original; }, 2000);
+        };
+        if (typeof gtag === 'function') {
+            gtag('event', 'share', {
+                app_name: 'red-green-flag',
+                share_channel: 'copy_link',
+                result_type: window._flagResult ? window._flagResult.archetypeKey : 'unknown'
             });
+        }
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+            navigator.clipboard.writeText(url).then(done);
         } else {
-            // Fallback
             const ta = document.createElement('textarea');
             ta.value = url;
             document.body.appendChild(ta);
             ta.select();
             document.execCommand('copy');
             document.body.removeChild(ta);
-            const btn = $('#btn-copy');
-            const original = btn.textContent;
-            btn.textContent = t('share.copied');
-            setTimeout(() => { btn.textContent = original; }, 2000);
+            done();
         }
+    }
+
+    function downloadStoryCard() {
+        const r = window._flagResult;
+        if (!r) return;
+        const emojis = {
+            greenHigh: '🟢', greenMed: '🌿', yellowHigh: '🟡', yellowMed: '💎',
+            redHigh: '🔴', redMed: '🌪️', mixed: '🎭', balanced: '🌈'
+        };
+        const title = t(`archetypes.${r.archetypeKey}.title`);
+        const desc = t(`archetypes.${r.archetypeKey}.desc`);
+        const canvas = document.createElement('canvas');
+        canvas.width = 1080;
+        canvas.height = 1920;
+        const ctx = canvas.getContext('2d');
+        const grad = ctx.createLinearGradient(0, 0, 1080, 1920);
+        grad.addColorStop(0, '#071318');
+        grad.addColorStop(0.55, '#0f2027');
+        grad.addColorStop(1, '#111827');
+        ctx.fillStyle = grad;
+        ctx.fillRect(0, 0, 1080, 1920);
+
+        ctx.fillStyle = 'rgba(34, 197, 94, 0.16)';
+        ctx.beginPath();
+        ctx.arc(540, 520, 320, 0, Math.PI * 2);
+        ctx.fill();
+
+        ctx.fillStyle = '#4ade80';
+        ctx.font = 'bold 34px sans-serif';
+        ctx.textAlign = 'center';
+        ctx.fillText('DOPABRAIN · RED & GREEN FLAG REPORT', 540, 210);
+
+        ctx.font = '150px sans-serif';
+        ctx.fillText(emojis[r.archetypeKey] || '🚩', 540, 560);
+
+        ctx.fillStyle = '#ffffff';
+        ctx.font = 'bold 58px sans-serif';
+        ctx.fillText(title, 540, 740);
+
+        ctx.fillStyle = '#cbd5e1';
+        ctx.font = '32px sans-serif';
+        const words = desc.split(' ');
+        let line = '';
+        let y = 840;
+        words.forEach((word) => {
+            const test = line ? `${line} ${word}` : word;
+            if (ctx.measureText(test).width > 860) {
+                ctx.fillText(line, 540, y);
+                line = word;
+                y += 48;
+            } else {
+                line = test;
+            }
+        });
+        if (line) ctx.fillText(line, 540, y);
+
+        ctx.fillStyle = '#4ade80';
+        ctx.font = 'bold 42px sans-serif';
+        ctx.fillText(`🟢 ${r.green}%   🟡 ${r.yellow}%   🔴 ${r.red}%`, 540, 1260);
+
+        ctx.fillStyle = '#94a3b8';
+        ctx.font = 'bold 30px sans-serif';
+        ctx.fillText('dopabrain.com/red-green-flag/', 540, 1760);
+
+        try {
+            const link = document.createElement('a');
+            link.download = `flag-report-${r.archetypeKey}.png`;
+            link.href = canvas.toDataURL('image/png');
+            link.click();
+        } catch (e) {}
+
+        if (typeof gtag === 'function') {
+            gtag('event', 'save_image', {
+                app_name: 'red-green-flag',
+                result_type: r.archetypeKey,
+                save_surface: 'result_story_1080x1920'
+            });
+        }
+    }
+
+    function updateCuratedResources(lang) {
+        const container = $('#curated-resources-card');
+        if (!container) return;
+        const stores = {
+            de: 'www.amazon.de',
+            fr: 'www.amazon.fr',
+            es: 'www.amazon.es',
+            ja: 'www.amazon.co.jp',
+            ko: 'www.amazon.com'
+        };
+        const host = stores[lang] || 'www.amazon.com';
+        const urls = {
+            sevenPrinciples: `https://${host}/dp/0553447718?tag=dopabrain-20`,
+            boundaries: `https://${host}/dp/0310351804?tag=dopabrain-20`
+        };
+        container.querySelectorAll('.curated-item').forEach((link) => {
+            const key = link.getAttribute('data-curated-key');
+            if (urls[key]) link.setAttribute('href', urls[key]);
+            if (!link.dataset.trackedCurated) {
+                link.dataset.trackedCurated = 'true';
+                link.addEventListener('click', () => {
+                    const currentLang = appI18n ? appI18n.getCurrentLanguage() : lang;
+                    const dest = link.getAttribute('href');
+                    if (typeof gtag === 'function') {
+                        gtag('event', 'curated_resource_click', {
+                            app_name: 'red-green-flag',
+                            resource_key: key,
+                            content_locale: currentLang,
+                            cta_surface: 'curated_resources'
+                        });
+                        gtag('event', 'content_cta_click', {
+                            cta_type: 'curated_book',
+                            destination: dest,
+                            source: 'red_green_flag'
+                        });
+                    }
+                });
+            }
+        });
     }
 
     // ===== Theme =====
@@ -346,9 +488,13 @@
         select.addEventListener('change', async (e) => {
             await appI18n.setLanguage(e.target.value);
             initRelatedFunnels();
-            // Re-render current screen content if on question screen
+            updateCuratedResources(e.target.value);
             if (currentQuestion < QUESTIONS.length && document.querySelector('#screen-question.active')) {
                 showQuestion();
+            } else if (window._flagResult && document.querySelector('#screen-result.active')) {
+                const r = window._flagResult;
+                $('#archetype-title').textContent = t(`archetypes.${r.archetypeKey}.title`);
+                $('#archetype-desc').textContent = t(`archetypes.${r.archetypeKey}.desc`);
             }
         });
     }
@@ -397,11 +543,18 @@
         initTheme();
         initLanguageSelector();
         initRelatedFunnels();
+        updateCuratedResources(appI18n ? appI18n.getCurrentLanguage() : 'ko');
 
         // Event listeners
         $('#btn-start').addEventListener('click', () => {
             currentQuestion = 0;
             answers = [];
+            if (typeof gtag === 'function') {
+                gtag('event', 'test_start', {
+                    app_name: 'red-green-flag',
+                    content_type: 'relational_flag_quiz'
+                });
+            }
             showScreen('question');
             showQuestion();
         });
@@ -416,6 +569,8 @@
             showScreen('start');
         });
 
+        const downloadBtn = $('#btn-download');
+        if (downloadBtn) downloadBtn.addEventListener('click', downloadStoryCard);
         $('#btn-twitter').addEventListener('click', shareTwitter);
         $('#btn-copy').addEventListener('click', copyLink);
         $('#theme-toggle').addEventListener('click', toggleTheme);

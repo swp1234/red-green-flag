@@ -42,6 +42,7 @@ class I18n {
         return true;
     }
     updateUI() {
+        document.documentElement.lang = this.currentLang;
         document.querySelectorAll('[data-i18n]').forEach(el => {
             el.textContent = this.t(el.getAttribute('data-i18n'));
         });
@@ -56,3 +57,4 @@ class I18n {
     getCurrentLanguage() { return this.currentLang; }
 }
 const i18n = new I18n();
+window.i18n = i18n;

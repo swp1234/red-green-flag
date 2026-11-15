@@ -171,15 +171,15 @@
     "flagRatio": "플래그 비율",
     "dimensions": "성격 차원",
     "retake": "다시 하기",
-    "moreTests": "더 많은 테스트",
-    "percentileStat": "참가자의 <strong>{percent}%</strong>만이 당신과 같은 플래그 프로필입니다"
+    "moreTests": "더 많은 테스트"
   },
   "share": {
     "title": "레드플래그 그린플래그 테스트",
     "text": "나는 {green}% 그린플래그! 🟢 유형: {archetype}",
     "copied": "복사 완료!",
     "twitter": "트위터 공유",
-    "copyUrl": "링크 복사"
+    "copyUrl": "링크 복사",
+    "downloadCard": "스토리 카드 저장"
   },
   "nav": {
     "back": "DopaBrain 홈"
@@ -189,7 +189,10 @@
     "attachmentStyle": "애착 유형",
     "loveLanguage": "사랑의 언어",
     "eqTest": "EQ 테스트",
-    "loveFrequency": "사랑 주파수 테스트"
+    "loveFrequency": "사랑 주파수 테스트",
+    "stressCheck": "스트레스 체크",
+    "futureSelf": "미래의 나 테스트",
+    "hspTest": "HSP 민감성 테스트"
   },
   "about": {
     "summaryTitle": "플래그 비율 가이드: 관계 건강성 & FAQ",
@@ -215,5 +218,14 @@
     "faq4A": "A: 절대 저장되지 않습니다. 모든 연산은 브라우저 내에서만 안전하게 실행됩니다.",
     "reviewDate": "편집 검토: 2026년 11월",
     "reviewTeam": "DopaBrain 관계 건강 연구팀"
+  },
+  "curated": {
+    "badge": "관계 심리 추천 도서",
+    "title": "건강한 경계와 대화법 더 깊이 보기",
+    "book1Title": "존 가트맨의 부부관계 7원칙",
+    "book1Desc": "존 가트맨 • 관계 연구로 검증된 갈등 회복과 신뢰 구축 습관.",
+    "book2Title": "경계선 (Boundaries)",
+    "book2Desc": "헨리 클라우드 & 존 타운센드 • 연애와 인간관계에서 건강하게 선 긋는 법.",
+    "readPill": "도서 보기 ↗"
   }
 }

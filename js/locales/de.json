@@ -171,15 +171,15 @@
     "flagRatio": "Flaggen-Verhältnis",
     "dimensions": "Persönlichkeitsdimensionen",
     "retake": "Test wiederholen",
-    "moreTests": "Weitere Tests entdecken",
-    "percentileStat": "Nur <strong>{percent}%</strong> der Teilnehmer teilen Ihr Flaggen-Profil"
+    "moreTests": "Weitere Tests entdecken"
   },
   "share": {
     "title": "Red Flag Green Flag Test",
     "text": "Ich bin {green}% Grüne Flagge! 🟢 Mein Typ: {archetype}",
     "copied": "Kopiert!",
     "twitter": "Auf Twitter teilen",
-    "copyUrl": "Link kopieren"
+    "copyUrl": "Link kopieren",
+    "downloadCard": "Story-Karte speichern"
   },
   "nav": {
     "back": "DopaBrain Startseite"
@@ -189,7 +189,10 @@
     "attachmentStyle": "Bindungsstil",
     "loveLanguage": "Liebessprache",
     "eqTest": "EQ-Test",
-    "loveFrequency": "Liebesfrequenz"
+    "loveFrequency": "Liebesfrequenz",
+    "stressCheck": "Stress-Check",
+    "futureSelf": "Zukunfts-Ich",
+    "hspTest": "HSP-Test"
   },
   "about": {
     "summaryTitle": "Leitfaden für Beziehungs-Flags: Beziehungshygiene & FAQ",
@@ -215,5 +218,14 @@
     "faq4A": "A: Niemals. Die Auswertung erfolgt vollkommen lokal im Browser.",
     "reviewDate": "Redaktionelle Prüfung: November 2026",
     "reviewTeam": "DopaBrain Beziehungsforschungs-Team"
+  },
+  "curated": {
+    "badge": "BEZIEHUNGSPSYCHOLOGIE-TIPPS",
+    "title": "Grenzen & Kommunikation vertiefen",
+    "book1Title": "Die 7 Geheimnisse der glücklichen Ehe",
+    "book1Desc": "John Gottman • Forschungsbasierte Reparaturgespräche und Vertrauensaufbau.",
+    "book2Title": "Grenzen ziehen (Boundaries)",
+    "book2Desc": "Henry Cloud & John Townsend • Klar Ja und Nein sagen in Partnerschaft und Alltag.",
+    "readPill": "Buch ansehen ↗"
   }
 }

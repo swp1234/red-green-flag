@@ -171,15 +171,15 @@
     "flagRatio": "フラッグ比率",
     "dimensions": "パーソナリティ次元",
     "retake": "もう一度診断",
-    "moreTests": "もっとテストを探す",
-    "percentileStat": "参加者の<strong>{percent}%</strong>だけがあなたと同じフラグプロフィールです"
+    "moreTests": "もっとテストを探す"
   },
   "share": {
     "title": "レッドフラッグ・グリーンフラッグ診断",
     "text": "私は{green}%グリーンフラッグ！🟢 タイプ：{archetype}",
     "copied": "コピーしました！",
     "twitter": "Twitterでシェア",
-    "copyUrl": "リンクをコピー"
+    "copyUrl": "リンクをコピー",
+    "downloadCard": "ストーリーカードを保存"
   },
   "nav": {
     "back": "DopaBrain ホーム"
@@ -189,7 +189,10 @@
     "attachmentStyle": "愛着スタイル",
     "loveLanguage": "愛の言語",
     "eqTest": "EQテスト",
-    "loveFrequency": "恋愛周波数テスト"
+    "loveFrequency": "恋愛周波数テスト",
+    "stressCheck": "ストレス診断",
+    "futureSelf": "未来の自分診断",
+    "hspTest": "HSP診断"
   },
   "about": {
     "summaryTitle": "関係性フラグ解説: パートナーシップ & FAQ",
@@ -215,5 +218,14 @@
     "faq4A": "A: いいえ。計算はブラウザ内でローカルに完結します。",
     "reviewDate": "編集レビュー: 2026年11月",
     "reviewTeam": "DopaBrain関係心理学チーム"
+  },
+  "curated": {
+    "badge": "人間関係おすすめ書籍",
+    "title": "境界線と対話力をさらに深める",
+    "book1Title": "結婚生活を成功させる7つの原則",
+    "book1Desc": "ジョン・ゴットマン • 関係修復の会話と信頼を育てる心理学の名著。",
+    "book2Title": "バウンダリーズ（境界線）",
+    "book2Desc": "ヘンリー・クラウド • 恋愛や職場で健全にNOを伝える実践ガイド。",
+    "readPill": "書籍を見る ↗"
   }
 }

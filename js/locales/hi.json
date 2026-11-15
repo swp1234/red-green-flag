@@ -171,15 +171,15 @@
     "flagRatio": "फ्लैग अनुपात",
     "dimensions": "व्यक्तित्व आयाम",
     "retake": "दोबारा टेस्ट करें",
-    "moreTests": "और टेस्ट देखें",
-    "percentileStat": "केवल <strong>{percent}%</strong> प्रतिभागियों का आपसे मिलता-जुलता फ्लैग प्रोफ़ाइल है"
+    "moreTests": "और टेस्ट देखें"
   },
   "share": {
     "title": "रेड फ्लैग ग्रीन फ्लैग टेस्ट",
     "text": "मैं {green}% ग्रीन फ्लैग हूं! 🟢 मेरा टाइप: {archetype}",
     "copied": "कॉपी हो गया!",
     "twitter": "Twitter पर शेयर करें",
-    "copyUrl": "लिंक कॉपी करें"
+    "copyUrl": "लिंक कॉपी करें",
+    "downloadCard": "स्टोरी कार्ड सेव करें"
   },
   "nav": {
     "back": "DopaBrain होम"
@@ -189,7 +189,10 @@
     "attachmentStyle": "अटैचमेंट स्टाइल",
     "loveLanguage": "प्रेम भाषा",
     "eqTest": "EQ टेस्ट",
-    "loveFrequency": "लव फ़्रीक्वेंसी"
+    "loveFrequency": "लव फ़्रीक्वेंसी",
+    "stressCheck": "तनाव जांच",
+    "futureSelf": "भविष्य का आप",
+    "hspTest": "HSP टेस्ट"
   },
   "about": {
     "summaryTitle": "रेड व ग्रीन फ्लैग गाइड: संबंधों की स्वस्थता और FAQ",
@@ -215,5 +218,14 @@
     "faq4A": "A: पूरी तरह से। सभी गणनाएँ आपके ब्राउज़र में सुरक्षित और स्थानीय रूप से होती हैं।",
     "reviewDate": "संपादकीय समीक्षा: नवंबर 2026",
     "reviewTeam": "डोपाब्रेन संबंध कल्याण टीम"
+  },
+  "curated": {
+    "badge": "रिलेशनशिप साइकोलॉजी पुस्तकें",
+    "title": "स्वस्थ सीमाएं और संवाद बेहतर बनाएं",
+    "book1Title": "The Seven Principles for Making Marriage Work",
+    "book1Desc": "John Gottman • भावनात्मक भरोसा और स्वस्थ संवाद की शोध-आधारित आदतें।",
+    "book2Title": "Boundaries",
+    "book2Desc": "Henry Cloud & John Townsend • रिश्तों में स्पष्ट सीमाएं तय करने की मार्गदर्शिका।",
+    "readPill": "पुस्तक देखें ↗"
   }
 }
