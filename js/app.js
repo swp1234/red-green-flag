@@ -326,16 +326,24 @@
                 result_type: window._flagResult ? window._flagResult.archetypeKey : 'unknown'
             });
         }
+        const execCopy = () => {
+            try {
+                const ta = document.createElement('textarea');
+                ta.value = url;
+                ta.setAttribute('readonly', '');
+                ta.style.position = 'fixed';
+                ta.style.opacity = '0';
+                document.body.appendChild(ta);
+                ta.select();
+                const ok = document.execCommand('copy');
+                document.body.removeChild(ta);
+                if (ok) done();
+            } catch (e) {}
+        };
         if (navigator.clipboard && navigator.clipboard.writeText) {
-            navigator.clipboard.writeText(url).then(done);
+            navigator.clipboard.writeText(url).then(done).catch(execCopy);
         } else {
-            const ta = document.createElement('textarea');
-            ta.value = url;
-            document.body.appendChild(ta);
-            ta.select();
-            document.execCommand('copy');
-            document.body.removeChild(ta);
-            done();
+            execCopy();
         }
     }
 
