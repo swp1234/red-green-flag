@@ -227,5 +227,11 @@
     "book2Title": "Límites (Boundaries)",
     "book2Desc": "Henry Cloud & John Townsend • Cómo decir sí y no con claridad afectiva.",
     "readPill": "Ver Libro ↗"
+  },
+  "nextStep": {
+    "label": "Siguiente paso recomendado",
+    "title": "Test de Estilo de Apego",
+    "desc": "Descubre cómo se conectan tus señales afectivas con tu patrón de apego en 10 escenarios.",
+    "cta": "Hacer Test de Apego →"
   }
 }

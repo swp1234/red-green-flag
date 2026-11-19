@@ -227,5 +227,11 @@
     "book2Title": "Boundaries",
     "book2Desc": "Henry Cloud & John Townsend • Saying yes and no cleanly in dating and life.",
     "readPill": "View Book ↗"
+  },
+  "nextStep": {
+    "label": "Recommended Next Step",
+    "title": "Attachment Style Reflection",
+    "desc": "See how your relationship signals connect to your core attachment pattern in 10 scenarios.",
+    "cta": "Check Attachment Style →"
   }
 }

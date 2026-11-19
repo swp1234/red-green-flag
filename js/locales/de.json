@@ -227,5 +227,11 @@
     "book2Title": "Grenzen ziehen (Boundaries)",
     "book2Desc": "Henry Cloud & John Townsend • Klar Ja und Nein sagen in Partnerschaft und Alltag.",
     "readPill": "Buch ansehen ↗"
+  },
+  "nextStep": {
+    "label": "Empfohlener nächster Schritt",
+    "title": "Bindungsstil-Reflexion",
+    "desc": "Sieh in 10 Beziehungsszenarien, wie dein Bindungsmuster Nähe und Grenzen prägt.",
+    "cta": "Bindungstest starten →"
   }
 }

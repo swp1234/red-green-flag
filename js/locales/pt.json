@@ -227,5 +227,11 @@
     "book2Title": "Limites (Boundaries)",
     "book2Desc": "Henry Cloud & John Townsend • Quando dizer sim e não nos relacionamentos.",
     "readPill": "Ver Livro ↗"
+  },
+  "nextStep": {
+    "label": "Próximo passo recomendado",
+    "title": "Teste de Estilo de Apego",
+    "desc": "Veja em 10 cenários como seus sinais afetivos refletem seu padrão de apego.",
+    "cta": "Fazer Teste de Apego →"
   }
 }

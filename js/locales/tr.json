@@ -227,5 +227,11 @@
     "book2Title": "Sınırlar (Boundaries)",
     "book2Desc": "Henry Cloud & John Townsend • İlişkilerde net ve sağlıklı sınırlar koyma rehberi.",
     "readPill": "Kitabı Gör ↗"
+  },
+  "nextStep": {
+    "label": "Önerilen Sonraki Adım",
+    "title": "Bağlanma Stili Testi",
+    "desc": "10 ilişki senaryosuyla yakınlık ve sınır kalıplarını keşfet.",
+    "cta": "Bağlanma Testini Başlat →"
   }
 }
